@@ -1,0 +1,306 @@
+,image,question,choices,answer,hint,task,grade,subject,topic,category,skill,lecture,solution,baseline_result,correct/incorrect,predicted_letter,gold_letter,CoT_result,reasoning,predicted_letter_CoT,correct/incorrect_CoT
+12575,,Select the invertebrate.,"['pipevine swallowtail butterfly', 'human', 'whiptail lizard', 'cockatoo']",0,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Flip-to-correct,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A whiptail lizard is a reptile. Like other reptiles, a whiptail lizard is a vertebrate. It has a backbone.
+A cockatoo is a bird. Like other birds, a cockatoo is a vertebrate. It has a backbone.
+A human is a mammal. Like other mammals, a human is a vertebrate. It has a backbone.
+A pipevine swallowtail butterfly is an insect. Like other insects, a pipevine swallowtail butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.",pipevine swallowtail butterfly,0,,A,Reasoning:Pipevine swallowtail butterfly is a species of invertebrate. Pipevine swallowtail butterfly is an invertebrate. The final answer: (A).,Pipevine swallowtail butterfly is a species of invertebrate. Pipevine swallowtail butterfly is an invertebrate.,A,1
+4130,,Select the bird.,"['grass frog', 'arroyo toad', 'penguin', 'coral snake']",2,,closed choice,grade5,natural science,biology,Flip-to-correct,"Identify mammals, birds, fish, reptiles, and amphibians","Birds have feathers, two wings, and a beak.","A coral snake is a reptile. It has scaly, waterproof skin.
+Coral snakes spend most of their time underground or hiding under leaves.
+A grass frog is an amphibian. It has moist skin and begins its life in water.
+Frogs live near water or in damp places. Most frogs lay their eggs in water.
+An arroyo toad is an amphibian. It has moist skin and begins its life in water.
+Toads do not have teeth! They swallow their food whole.
+A penguin is a bird. It has feathers, two wings, and a beak.
+Penguins live near water. Penguins cannot fly! They use their wings to swim.",A,0,A,C,Reasoning:A penguin is a species of bird. The final answer: (C).,A penguin is a species of bird.,C,1
+8804,,"Which type of sentence is this?
+Raymond always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.","['simple', 'compound', 'complex', 'compound-complex']",1,,closed choice,grade9,language science,grammar,Flip-to-correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+Raymond always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",Raymond always approaches difficult tasks,0,,B,"Reasoning:Raymond always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor. The final answer: (B).","Raymond always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",B,1
+10921,,Select the vertebrate.,"['redback spider', 'human', 'grasshopper', 'saturn butterfly']",1,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade4,natural science,biology,Flip-to-correct,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A saturn butterfly is an insect. Like other insects, a saturn butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.
+Like other spiders, a redback spider is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A grasshopper is an insect. Like other insects, a grasshopper is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A human is a mammal. Like other mammals, a human is a vertebrate. It has a backbone.",A,0,A,B,Reasoning:Vertebrates are the only living beings. Humans are the only living beings. The final answer: (B).,Vertebrates are the only living beings. Humans are the only living beings.,B,1
+6428,,How long is a ladybug?,"['9 meters', '9 kilometers', '9 millimeters', '9 centimeters']",2,Select the best estimate.,closed choice,grade6,natural science,units-and-measurement,Flip-to-correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a ladybug is 9 millimeters.
+9 centimeters, 9 meters, and 9 kilometers are all too long.",D,0,D,C,Reasoning:A ladybug is 9 cm long. The final answer: (C).,A ladybug is 9 cm long.,C,1
+1948,,Select the invertebrate.,"['diving beetle', 'blue jay', 'harvest mouse', 'komodo dragon']",0,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Flip-to-correct,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A diving beetle is an insect. Like other insects, a diving beetle is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A harvest mouse is a mammal. Like other mammals, a harvest mouse is a vertebrate. It has a backbone.
+A blue jay is a bird. Like other birds, a blue jay is a vertebrate. It has a backbone.
+A komodo dragon is a reptile. Like other reptiles, a komodo dragon is a vertebrate. It has a backbone.",diving beetle,0,,A,Reasoning:Diving beetle is an invertebrate. The final answer: (A).,Diving beetle is an invertebrate.,A,1
+4385,,How long is a garden snail?,"['43 kilometers', '43 millimeters', '43 centimeters', '43 meters']",1,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a garden snail is 43 millimeters.
+43 centimeters, 43 meters, and 43 kilometers are all too long.",43 millimeters,0,,B,Reasoning:Millimeters is the length of an inch. A garden snail is 43 millimeters long. The final answer: (B).,Millimeters is the length of an inch. A garden snail is 43 millimeters long.,B,1
+8233,,"Complete the sentence.
+The Eighth Amendment says that the government cannot use any punishments that are ().","['cruel and unusual', 'embarrassing', 'violent', 'expensive']",0,,closed choice,grade4,social science,civics,Flip-to-correct,The Bill of Rights,,"Today, the United States often uses punishments that are expensive, violent, or embarrassing. However, the Eighth Amendment says that the government cannot use any punishments that are ""cruel and unusual."" What makes a punishment ""cruel or unusual""? The answer is not clear. The Eighth Amendment doesn't talk about specific punishments. Over time, Americans have changed their views on what is cruel and unusual. For example, the government decided in 2005 that it was cruel to put someone to death for a crime he or she committed before the age of 18. Today, Americans continue to question what is cruel and unusual. In the future, some punishments used today may be outlawed. The text of the Eighth Amendment is below. Does it have rules against anything else? Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.",(C),0,C,A,Reasoning:The Eighth Amendment says that the government cannot use any punishments that are cruel and unusual. The final answer: (A).,The Eighth Amendment says that the government cannot use any punishments that are cruel and unusual.,A,1
+12050,,Select the reptile.,"['domestic pig', 'tortoise', 'leafy seadragon', 'American toad']",1,,closed choice,grade5,natural science,biology,Flip-to-correct,"Identify mammals, birds, fish, reptiles, and amphibians","Reptiles have scaly, waterproof skin. Most reptiles live on land.","A leafy seadragon is a fish. It lives underwater. It has fins, not limbs.
+A seadragon's body looks like a clump of seaweed. This helps the seadragon hide from its predators.
+An American toad is an amphibian. It has moist skin and begins its life in water.
+Toads do not have teeth! They swallow their food whole.
+A domestic pig is a mammal. It has hair and feeds its young milk.
+Pigs are omnivores. This means that they can eat both plants and animals.
+A tortoise is a reptile. It has scaly, waterproof skin.
+A tortoise's shell protects it from predators. When a tortoise feels threatened, it can pull its head and legs inside its shell.",D,0,D,B,Reasoning:American toad is a reptile. The final answer: (B).,American toad is a reptile.,B,1
+6639,,Select the animal.,"['Oak trees can have thick branches.', 'Cherry trees can grow white or pink flowers.', 'Yellow jackets drink nectar and fruit.', 'Daffodils have a green stem.']",2,,closed choice,grade3,natural science,biology,Flip-to-correct,Identify plants and animals,"Plants and animals are living things. Living things are called organisms.
+Plants come in many shapes and sizes. Most plants grow in the ground. They might grow leaves, flowers, and fruit. Plants cannot move around on their own like animals can.
+Animals also come in many shapes and sizes. Most animals can move around. Animals might run, swim, jump, or fly. Animals eat plants or other organisms for food.","An oak tree is a plant. It can have thick branches.
+Acorns grow on oak trees. Acorns are small nuts with a seed inside.
+A yellow jacket is an animal. It drinks nectar and eats fruit.
+A yellow jacket is an insect. Yellow jackets have two wings.
+A cherry tree is a plant. It can grow white or pink flowers.
+Many types of cherry trees come from Japan. Some of these trees have flowers, but no cherries!
+A daffodil is a plant. It has a green stem.
+Most daffodil plants grow a single flower.",D,0,D,C,Reasoning:Oak trees can have thick branches. Yellow jackets drink nectar and fruit. The final answer: (C).,Oak trees can have thick branches. Yellow jackets drink nectar and fruit.,C,1
+9627,,Select the bird.,"['manta ray', 'emerald hummingbird', 'grass frog', 'green iguana']",1,,closed choice,grade5,natural science,biology,Flip-to-correct,"Identify mammals, birds, fish, reptiles, and amphibians","Birds have feathers, two wings, and a beak.","A green iguana is a reptile. It has scaly, waterproof skin.
+Iguanas are a type of lizard. Iguanas eat plants and fruit.
+An emerald hummingbird is a bird. It has feathers, two wings, and a beak.
+Hummingbirds can fly backwards and upside-down!
+A manta ray is a fish. It lives underwater. It has fins, not limbs.
+Rays have a different shape than many other fish. Rays are large and flat. They have wide, triangle-shaped fins that help them swim long distances.
+A grass frog is an amphibian. It has moist skin and begins its life in water.
+Frogs live near water or in damp places. Most frogs lay their eggs in water.",emerald,0,,B,Reasoning:Emerald hummingbird is a species of bird. Emerald hummingbird is a green iguana. The final answer: (B).,Emerald hummingbird is a species of bird. Emerald hummingbird is a green iguana.,B,1
+5246,,Select the living thing.,"['clownfish', 'beach ball', 'helicopter', 'bracelet']",0,,closed choice,grade4,natural science,biology,Flip-to-correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","A helicopter is not a living thing.
+A helicopter does not have all the traits of a living thing. It needs energy to fly, but it does not eat food. Helicopters get energy from gasoline or other fuel. They do not grow.
+A beach ball is not a living thing.
+Beach balls do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A bracelet is not a living thing.
+Bracelets do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A clownfish is a living thing.
+Clownfishes grow and respond to their environment. They need food and water. Clownfishes are made up of many cells.",clownfish,0,,A,Reasoning:A clownfish is a living thing. The final answer: (A).,A clownfish is a living thing.,A,1
+9135,,How long is a caterpillar?,"['24 millimeters', '24 kilometers', '24 meters', '24 centimeters']",0,Select the best estimate.,closed choice,grade6,natural science,units-and-measurement,Flip-to-correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a caterpillar is 24 millimeters.
+24 centimeters, 24 meters, and 24 kilometers are all too long.",D,0,D,A,Reasoning:A caterpillar is 24 millimeters long. The final answer: (A).,A caterpillar is 24 millimeters long.,A,1
+2208,,"Which type of sentence is this?
+Leonardo da Vinci, who was a renowned painter and sculptor, was also an inventor and scientist.","['compound', 'complex', 'compound-complex', 'simple']",1,,closed choice,grade10,language science,grammar,Flip-to-correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is complex. It is made up of an independent clause and a dependent clause. The dependent clause begins with the relative pronoun who.
+Leonardo da Vinci, who was a renowned painter and sculptor, was also an inventor and scientist.",(A),0,A,B,Reasoning:Leonardo da Vinci was a painter and sculptor. He was also an inventor and scientist. The final answer: (B).,Leonardo da Vinci was a painter and sculptor. He was also an inventor and scientist.,B,1
+4498,,"What do these two changes have in common?
+an iceberg melting slowly
+baking cookies","['Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.', 'Both are chemical changes.']",1,,closed choice,grade4,natural science,chemistry,Flip-to-correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+An iceberg melting is a change of state. So, it is a physical change. An iceberg is made of frozen water. As it melts, the water changes from a solid to a liquid. But a different type of matter is not formed.
+Baking cookies is a chemical change. The type of matter in the cookie dough changes when it is baked. The cookie dough turns into cookies!
+Step 2: Look at each answer choice.
+Both are only physical changes.
+An iceberg melting is a physical change. But baking cookies is not.
+Both are chemical changes.
+Baking cookies is a chemical change. But an iceberg melting is not.
+Both are caused by heating.
+Both changes are caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,B,Reasoning:Iceberg melting slowly causes cooling. The final answer: (B).,Iceberg melting slowly causes cooling.,B,1
+7764,,Where was Thomas Jefferson from?,"['Pennsylvania', 'Virginia', 'England', 'Canada']",1,,closed choice,grade3,social science,us-history,Flip-to-correct,Thomas Jefferson,,"Thomas Jefferson was from Virginia.
+Virginia was a British colony when Thomas Jefferson was born. Virginia was the first of the Thirteen Colonies in North America. More colonists lived in Virginia than in any other British colony.
+Thomas Jefferson was not from England. England was a different part of the British Empire.",(C),0,C,B,Reasoning:Virginia is a state in the United States. Thomas Jefferson was born in Virginia. The final answer: (B).,Virginia is a state in the United States. Thomas Jefferson was born in Virginia.,B,1
+8654,,"Which type of sentence is this?
+As Mike sat down on the rickety old chair, it abruptly collapsed beneath him.","['compound', 'simple', 'compound-complex', 'complex']",3,,closed choice,grade12,language science,grammar,Flip-to-correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is complex. It is made up of an independent clause and a dependent clause. The dependent clause begins with the subordinating conjunction as.
+As Mike sat down on the rickety old chair, it abruptly collapsed beneath him.",(C),0,C,D,"Reasoning:Chairs are rickety and hard to sit on. As Mike sat down on the rickety old chair, it abruptly collapsed beneath him. The final answer: (D).","Chairs are rickety and hard to sit on. As Mike sat down on the rickety old chair, it abruptly collapsed beneath him.",D,1
+1621,,"Complete the sentence.
+ an egg is fertilized, it can become a ().","['After . . . cone', 'After . . . seed', 'Before . . . cone', 'Before . . . seed']",1,,closed choice,grade4,natural science,biology,Flip-to-correct,Describe and construct conifer life cycles,"Conifers are plants that grow cones. Conifers use their cones to reproduce, or make new plants like themselves. How do conifers use their cones to reproduce?
+Conifers can grow male and female cones. Male cones make pollen, and female cones make eggs. Pollination is what happens when wind blows pollen from male cones onto female cones. After pollination, sperm from the pollen can combine with eggs. This is called fertilization. The fertilized eggs grow into seeds.
+The seeds can fall out of the cones and land on the ground. When a seed lands on the ground, it can germinate, or start to grow into a new plant.","Fertilized eggs grow into seeds. An egg cannot become a seed until after it is fertilized.
+A seed can grow into a new plant, which can grow cones. But a fertilized egg does not become a cone.",(A),0,A,B,"Reasoning:An egg is fertilized, it can become a seed. The final answer: (B).","An egg is fertilized, it can become a seed.",B,1
+10981,,"Complete the sentence.
+The Eighth Amendment places limits on how the government can () people.","['help', 'punish', 'educate', 'tax']",1,,closed choice,grade4,social science,civics,Flip-to-correct,The Bill of Rights,,"The Eighth Amendment places limits on how the government can punish people. In particular, it says that the government cannot use ""cruel and unusual punishments."" What makes a punishment ""cruel or unusual""? The answer is not clear. The Eighth Amendment doesn't talk about specific punishments. Over time, Americans have changed their views on what is cruel and unusual. For example, the government decided in 2005 that it was cruel to put someone to death for a crime he or she committed before the age of 18. Today, Americans continue to question what is cruel and unusual. In the future, some punishments used today may be outlawed. The text of the Eighth Amendment is below. Does it have rules against anything else? Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.",(D),0,D,B,Reasoning:The Eighth Amendment places limits on how the government can help people. The final answer: (B).,The Eighth Amendment places limits on how the government can help people.,B,1
+10446,,"What do these two changes have in common?
+butter melting on a hot day
+grilling a hamburger","['Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.']",2,,closed choice,grade4,natural science,chemistry,Flip-to-correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Butter melting on a hot day is a change of state. So, it is a physical change. The butter changes from solid to liquid, but it is still made of the same type of matter.
+Grilling a hamburger is a chemical change. Heat from the grill causes the matter in the meat to change. Cooked meat and raw meat are different types of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Butter melting on a hot day is a physical change. But grilling a hamburger is not.
+Both are chemical changes.
+Grilling a hamburger is a chemical change. But butter melting on a hot day is not.
+Both are caused by heating.
+Both changes are caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,C,Reasoning:Butter melting on a hot day grilling a hamburger is the same as butter melting on a cold day. The final answer: (C).,Butter melting on a hot day grilling a hamburger is the same as butter melting on a cold day.,C,1
+10893,,Select the vertebrate.,"['monarch butterfly', 'atlantic salmon', 'red-kneed tarantula', 'hissing cockroach']",1,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade5,natural science,biology,Flip-to-correct,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","Like other tarantulas, a red-kneed tarantula is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A monarch butterfly is an insect. Like other insects, a monarch butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.
+An atlantic salmon is a fish. Like other fish, an atlantic salmon is a vertebrate. It has a backbone.
+A hissing cockroach is an insect. Like other insects, a hissing cockroach is an invertebrate. It does not have a backbone. It has an exoskeleton.",(A),0,A,B,Reasoning:Vertebrates are a group of living organisms. Invertebrates are the vertebrates. The final answer: (B).,Vertebrates are a group of living organisms. Invertebrates are the vertebrates.,B,1
+10875,,Select the mammal.,"['human', 'American toad', 'alpine newt', 'green frog']",0,,closed choice,grade5,natural science,biology,Flip-to-correct,"Identify mammals, birds, fish, reptiles, and amphibians",Mammals have hair or fur and feed their young milk.,"An American toad is an amphibian. It has moist skin and begins its life in water.
+Toads do not have teeth! They swallow their food whole.
+An alpine newt is an amphibian. It has moist skin and begins its life in water.
+Some newts live in water. Other newts live on land but lay their eggs in water.
+A human is a mammal. It has hair and feeds its young milk.
+Humans are a type of animal called a primate. Monkeys and apes are also primates.
+A green frog is an amphibian. It has moist skin and begins its life in water.
+Frogs live near water or in damp places. Most frogs lay their eggs in water.",D,0,D,A,Reasoning:American toad is a mammal. The final answer: (A).,American toad is a mammal.,A,1
+8988,,How long is a parking space?,"['7 centimeters', '7 meters', '7 millimeters', '7 kilometers']",1,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a parking space is 7 meters.
+7 millimeters and 7 centimeters are too short. 7 kilometers is too long.",D,0,D,B,Reasoning:A parking space is 7 meters long. The final answer: (B).,A parking space is 7 meters long.,B,1
+11463,,Select the amphibian.,"['domestic pig', 'western rattlesnake', 'green tree frog', 'water buffalo']",2,,closed choice,grade5,natural science,biology,Flip-to-correct,"Identify mammals, birds, fish, reptiles, and amphibians",Amphibians have moist skin and begin their lives in water.,"A domestic pig is a mammal. It has hair and feeds its young milk.
+Pigs are omnivores. This means that they can eat both plants and animals.
+A western rattlesnake is a reptile. It has scaly, waterproof skin.
+Rattlesnakes have fangs they can use to inject venom into their prey.
+A water buffalo is a mammal. It has hair and feeds its young milk.
+Water buffaloes live in Asia. Some people raise water buffaloes for their milk.
+A green tree frog is an amphibian. It has moist skin and begins its life in water.
+There are many kinds of tree frogs. Most tree frogs are very small. They can walk on thin branches.",D,0,D,C,Reasoning:Green tree frog is an amphibian. Western rattlesnake is an amphibian. The final answer: (C).,Green tree frog is an amphibian. Western rattlesnake is an amphibian.,C,1
+1775,,Select the vertebrate.,"['common octopus', 'turkey vulture', 'hissing cockroach', 'praying mantis']",1,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade5,natural science,biology,Flip-to-correct,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","Like other octopuses, a common octopus is an invertebrate. It does not have a backbone. It has a soft body.
+A praying mantis is an insect. Like other insects, a praying mantis is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A turkey vulture is a bird. Like other birds, a turkey vulture is a vertebrate. It has a backbone.
+A hissing cockroach is an insect. Like other insects, a hissing cockroach is an invertebrate. It does not have a backbone. It has an exoskeleton.",(D),0,D,B,Reasoning:Vertebrates are a group of vertebrates. Common octopus is a common octopus. The final answer: (B).,Vertebrates are a group of vertebrates. Common octopus is a common octopus.,B,1
+2692,,"Which type of sentence is this?
+Isaac took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.","['complex', 'compound-complex', 'compound', 'simple']",3,,closed choice,grade10,language science,grammar,Flip-to-correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is simple. It is a single independent clause.
+Isaac took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.",(A),0,A,D,Reasoning:Table Mountain is a mountain. Isaac took several incredible panoramic photographs of the sweeping view from the top of Table Mountain. The final answer: (D).,Table Mountain is a mountain. Isaac took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.,D,1
+9415,,How long is a guitar?,"['33 inches', '33 feet', '33 miles', '33 yards']",0,Select the best estimate.,closed choice,grade8,natural science,units-and-measurement,Flip-to-correct,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of a guitar is 33 inches.
+33 feet, 33 yards, and 33 miles are all too long.",33 inches,0,,A,Reasoning:A guitar is 33 inches long. The final answer: (A).,A guitar is 33 inches long.,A,1
+2423,,How long is a potato?,"['7 yards', '7 inches', '7 feet', '7 miles']",1,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-correct,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of a potato is 7 inches.
+7 feet, 7 yards, and 7 miles are all too long.",7 inches,0,,B,Reasoning:A potato is 7 inches long. The final answer: (B).,A potato is 7 inches long.,B,1
+5847,,Select the part whose main job is to help an animal cell make proteins.,"['vacuoles', 'endoplasmic reticulum', 'mitochondria', 'cytoplasm']",1,,closed choice,grade8,natural science,biology,Flip-to-correct,Identify functions of animal cell parts,"Animal cells are made up of many different parts. Each cell part has a function that helps the cell survive and grow.
+Some cell parts are called organelles. Organelles are cell structures that are surrounded by their own membranes. Here are some of the organelles in animal cells:
+Mitochondria help the cell get the energy it needs. Mitochondria break down sugar and release energy that the cell can use for all of its activities.
+The nucleus directs cell activities by sending instructions to different parts of the cell. The nucleus contains structures called chromosomes. The chromosomes are made mostly of hereditary material called DNA. DNA contains information that the cell uses for growth and activities. These instructions tell ribosomes how to build molecules called proteins, which make up cell structures and help chemical reactions happen in the cell.
+The endoplasmic reticulum is an organelle that helps ribosomes build proteins. The nucleus sends instructions for making proteins to ribosomes. Ribosomes can attach to the endoplamic reticulum. The endoplasmic reticulum and ribosomes use these instructions to make proteins that the cell needs to survive and grow.
+After proteins are made in the endoplasmic reticulum, they can be transferred to the Golgi. The Golgi is an organelle made up of flat, stacked membranes. The Golgi sorts and packages proteins and other substances. Then, the Golgi sends these substances to different parts of the cell. Some of these substances are sent to the cell membrane and released from the cell.
+Animal cells also have organelles for storage and waste removal. The vacuoles store sugar and other nutrients. The lysosomes break down worn-out cell parts and other waste. Animal cells usually have several vacuoles and lysosomes.
+Other cell parts are not surrounded by their own membranes. These cell parts are not organelles.
+The cell membrane is a thin layer that surrounds and protects the cell. This layer is a membrane, but it does not have a membrane surrounding it, so it is not an organelle. The cell membrane controls which substances enter and leave the cell.
+The cytoplasm is a thick liquid that fills the space inside the cell. The cytoplasm also helps the cell keep its shape and supports the other cell parts.",The endoplasmic reticulum helps the cell make proteins. Instructions for making proteins are sent to ribosomes. Ribosomes can attach to the endoplamic reticulum and use the instructions to make proteins.,endoplasmic ,0,,B,Reasoning:Endoplasmic reticulum helps an animal cell make proteins. The final answer: (B).,Endoplasmic reticulum helps an animal cell make proteins.,B,1
+4142,,"Which type of sentence is this?
+An avid reader, Hakim attends weekly book club meetings, and he finishes several novels every month.","['simple', 'compound', 'compound-complex', 'complex']",1,,closed choice,grade10,language science,grammar,Flip-to-correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+An avid reader, Hakim attends weekly book club meetings, and he finishes several novels every month.",Hakim is an avid,0,,B,"Reasoning:Hakim is an avid reader, and he reads several novels every month. The final answer: (B).","Hakim is an avid reader, and he reads several novels every month.",B,1
+213,,How long is a garden snail?,"['50 millimeters', '50 kilometers', '50 centimeters', '50 meters']",0,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a garden snail is 50 millimeters.
+50 centimeters, 50 meters, and 50 kilometers are all too long.",50 millimeters,0,,A,Reasoning:Snails are 50 millimeters long. The final answer: (A).,Snails are 50 millimeters long.,A,1
+10520,,How long is a tennis racket?,"['70 meters', '70 centimeters', '70 millimeters', '70 kilometers']",1,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a tennis racket is 70 centimeters.
+70 millimeters is too short. 70 meters and 70 kilometers are too long.",(C),0,C,B,Reasoning:A tennis racket is 70 millimeters long. The final answer: (B).,A tennis racket is 70 millimeters long.,B,1
+895,,How long is a grain of rice?,"['4 centimeters', '4 millimeters', '4 kilometers', '4 meters']",1,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a grain of rice is 4 millimeters.
+4 centimeters, 4 meters, and 4 kilometers are all too long.",4 centimeters,0,,B,Reasoning:A grain of rice is 4 millimeters in length. The final answer: (B).,A grain of rice is 4 millimeters in length.,B,1

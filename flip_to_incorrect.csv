@@ -1,0 +1,81 @@
+,image,question,choices,answer,hint,task,grade,subject,topic,category,skill,lecture,solution,baseline_result,correct/incorrect,predicted_letter,gold_letter,CoT_result,reasoning,predicted_letter_CoT,correct/incorrect_CoT
+8088,,When was Harriet Tubman born?,"['the 1820s', 'the 1610s', 'the 1910s', 'the 1490s']",0,,closed choice,grade3,social science,us-history,Flip-to-incorrect,Harriet Tubman,,"Harriet Tubman was born in the 1820 s. She was born about 40 years before the Civil War. The Civil War was fought from 1861 to 1865.
+During the 1820 s, slavery was still allowed. It was also spreading into new parts of the country. Many people worried that it might last forever.",(A),1,A,A,Reasoning:Harriet Tubman was born in the 1610s. The final answer: (B).,Harriet Tubman was born in the 1610s.,B,0
+1165,,"What do these two changes have in common?
+cooking a pancake
+salt and vinegar removing tarnish from a penny","['Both are caused by cooling.', 'Both are only physical changes.', 'Both are caused by heating.', 'Both are chemical changes.']",3,,closed choice,grade8,natural science,chemistry,Flip-to-incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Cooking a pancake is a chemical change. Pancakes are made from pancake batter. A cooked pancake is a different type of matter than pancake batter. Pancake batter is wet and slippery. Cooked pancakes are fluffy and can be good to eat!
+Salt and vinegar removing tarnish from a penny is a chemical change. The salt and vinegar change the tarnish into a different type of matter that can be easily wiped away. This makes the penny look shiny again.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Cooking is caused by heating. But salt and vinegar removing tarnish from a penny is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),1,D,D,"Reasoning:Heat is a chemical reaction. Heat and vinegar react chemically. Heat and vinegar react chemically. Therefore, the final answer is (D).",,,0
+2676,,"Which type of sentence is this?
+Julie is a competitive horseback rider, and she will be competing in the next World Equestrian Games, which are held every four years.","['compound-complex', 'complex', 'compound', 'simple']",0,,closed choice,grade10,language science,grammar,Flip-to-incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound-complex. It is made up of two independent clauses and a dependent clause. The dependent clause begins with the relative pronoun which.
+Julie is a competitive horseback rider, and she will be competing in the next World Equestrian Games, which are held every four years.",(A),1,A,A,Reasoning:Equestrian Games are held every four years. The final answer: (B).,Equestrian Games are held every four years.,B,0
+2953,,How long is a raisin?,"['10 meters', '10 centimeters', '10 kilometers', '10 millimeters']",3,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-incorrect,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a raisin is 10 millimeters.
+10 centimeters, 10 meters, and 10 kilometers are all too long.",D,1,D,D,Reasoning:A raisin has a length of 10 millimeters. The final answer: (B).,A raisin has a length of 10 millimeters.,B,0
+6310,,How long is a spider's leg?,"['18 meters', '18 centimeters', '18 kilometers', '18 millimeters']",3,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-incorrect,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a spider's leg is 18 millimeters.
+18 centimeters, 18 meters, and 18 kilometers are all too long.",D,1,D,D,Reasoning:A spider's leg is 18 millimeters long. The final answer: (B).,A spider's leg is 18 millimeters long.,B,0
+3096,,"Which type of sentence is this?
+As Johnny sat down on the rickety old chair, it abruptly collapsed beneath him.","['simple', 'compound', 'complex', 'compound-complex']",2,,closed choice,grade7,language science,grammar,Flip-to-incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is complex. It is made up of an independent clause and a dependent clause. The dependent clause begins with the subordinating conjunction as.
+As Johnny sat down on the rickety old chair, it abruptly collapsed beneath him.",(C),1,C,C,Reasoning:The chair collapsed beneath Johnny because it was rickety. The final answer: (B).,The chair collapsed beneath Johnny because it was rickety.,B,0
+11138,,How long is the Great Wall of China?,"['13,000 feet', '13,000 inches', '13,000 yards', '13,000 miles']",3,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Flip-to-incorrect,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of the Great Wall of China is 13,000 miles.
+13,000 inches, 13,000 feet, and 13,000 yards are all too short.",D,1,D,D,"Reasoning:The length of the Great Wall of China is 13,000 feet. The final answer: (A).","The length of the Great Wall of China is 13,000 feet.",A,0

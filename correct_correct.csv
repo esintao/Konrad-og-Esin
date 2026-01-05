@@ -1,0 +1,897 @@
+,image,question,choices,answer,hint,task,grade,subject,topic,category,skill,lecture,solution,baseline_result,correct/incorrect,predicted_letter,gold_letter,CoT_result,reasoning,predicted_letter_CoT,correct/incorrect_CoT
+3808,,Select the living thing.,"['cell phone', 'giant clam', 'paper airplane', 'clay']",1,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","Clay is not a living thing.
+Clay does not have all of the traits of a living thing. It can be formed into different shapes, but it does not grow or respond to the world around it. It does not need food or water.
+A giant clam is a living thing.
+Giant clams grow and respond to their environment. They need food and water. Giant clams are made up of many cells.
+Giant clams are animals. They live in large shells that are attached to the ocean floor.
+A cell phone is not a living thing.
+A cell phone does not have all the traits of a living thing. It does many useful things, and even responds to the world around it. But it does not grow. It does not need food or water.
+A paper airplane is not a living thing.
+Paper airplanes do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.",B,1,B,B,Reasoning:Giant clam is a living thing. Giant clam can be selected. The final answer: (B).,Giant clam is a living thing. Giant clam can be selected.,B,1
+6573,,How long is an adult alligator?,"['15 inches', '15 miles', '15 feet', '15 yards']",2,Select the best estimate.,closed choice,grade6,natural science,units-and-measurement,Correct–Correct,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of an adult alligator is 15 feet.
+15 inches is too short. 15 yards and 15 miles are too long.",C,1,C,C,Reasoning:Adult alligators are about 15 inches long. The final answer: (C).,Adult alligators are about 15 inches long.,C,1
+3574,,"Which type of sentence is this?
+As Dan sat down on the rickety old chair, it abruptly collapsed beneath him.","['simple', 'compound-complex', 'compound', 'complex']",3,,closed choice,grade8,language science,grammar,Correct–Correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is complex. It is made up of an independent clause and a dependent clause. The dependent clause begins with the subordinating conjunction as.
+As Dan sat down on the rickety old chair, it abruptly collapsed beneath him.",(D),1,D,D,Reasoning:The chair collapsed beneath Dan when he sat down on it. The final answer: (D).,The chair collapsed beneath Dan when he sat down on it.,D,1
+10363,,"Which type of sentence is this?
+Lorraine Hansberry wrote the widely acclaimed 1959 Broadway play A Raisin in the Sun, and her accomplishment opened the door for other African American playwrights.","['compound', 'complex', 'simple', 'compound-complex']",0,,closed choice,grade10,language science,grammar,Correct–Correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+Lorraine Hansberry wrote the widely acclaimed 1959 Broadway play A Raisin in the Sun, and her accomplishment opened the door for other African American playwrights.",(A),1,A,A,Reasoning:A Raisin in the Sun is a 1959 Broadway play written by Lorraine Hansberry. Her accomplishment opened the door for other African American playwrights. The final answer: (A).,A Raisin in the Sun is a 1959 Broadway play written by Lorraine Hansberry. Her accomplishment opened the door for other African American playwrights.,A,1
+4302,,Which organ provides a barrier against contaminants found in the environment?,"['skin', 'stomach', 'brain', 'muscles']",0,,closed choice,grade5,natural science,biology,Correct–Correct,Human organs and their functions,,,(A),1,A,A,Reasoning:Skin provides a barrier against contaminants found in the environment. The final answer: (A).,Skin provides a barrier against contaminants found in the environment.,A,1
+11573,,How long is a long-distance running race?,"['25 yards', '25 miles', '25 feet', '25 inches']",1,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Correct–Correct,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of a long-distance running race is 25 miles.
+25 inches, 25 feet, and 25 yards are all too short.",B,1,B,B,Reasoning:A long-distance running race is 25 miles. The final answer: (B).,A long-distance running race is 25 miles.,B,1
+11053,,Select the living thing.,"['banana tree', 'yo-yo', 'Mount Rushmore National Memorial', 'candle']",0,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","A banana tree is a living thing.
+Banana trees grow and respond to their environment. They need food and water. Banana trees are made up of many cells.
+Banana trees are plants. They make their own food using water, carbon dioxide, and energy from sunlight.
+A candle is not a living thing.
+A candle does not have all the traits of a living thing. It gives off light and heat, but it does not need food or water to survive.
+Mount Rushmore National Memorial is not a living thing.
+The Mount Rushmore National Memorial is a sculpture of four American presidents: George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. The sculpture does not have all the traits of a living thing. It does not grow or respond to the world around it. It does not need food or water.
+A yo-yo is not a living thing.
+Yo-yos do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.",(A),1,A,A,Reasoning:A banana tree is a living thing. The final answer: (A).,A banana tree is a living thing.,A,1
+971,,"What do these two changes have in common?
+boiling an egg
+acid rain weathering a marble statue","['Both are only physical changes.', 'Both are caused by heating.', 'Both are chemical changes.', 'Both are caused by cooling.']",2,,closed choice,grade7,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Boiling an egg is a chemical change. The heat causes the matter in the egg to change. Cooked eggs and raw eggs are made of different types of matter.
+Acid rain weathering a marble statue is a chemical change. The acid rain reacts with the outside of the statue and breaks it down into a different type of matter. This new matter is then washed away by the rain. Acid rain is a type of pollution. It forms when smoke from automobiles and factories mixes with water in clouds.
+Acid rain is a type of pollution. It forms when automobiles and factories release smoke containing sulfur or nitrogen. Some of these chemicals react with water in the atmosphere. The reaction forms droplets of water that can fall back to the ground as acid rain.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Cooking is caused by heating. But acid rain weathering a marble statue is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),1,C,C,Reasoning:Boiling an egg and weathering a marble statue are chemical changes. Boiling an egg and weathering a marble statue are chemical changes. The final answer: (C).,Boiling an egg and weathering a marble statue are chemical changes. Boiling an egg and weathering a marble statue are chemical changes.,C,1
+2018,,"What do these two changes have in common?
+an old sandwich rotting in a trashcan
+a piece of apple turning brown","['Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.', 'Both are chemical changes.']",3,,closed choice,grade4,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+A sandwich rotting is a chemical change. The matter in the sandwich breaks down and slowly turns into a different type of matter.
+A piece of apple turning brown is a chemical change. The apple reacts with oxygen in the air and turns into a different type of matter.
+If you scrape off the brown layer of the apple, the inside is still white. The inside hasn't touched the air. So the chemical change didn't happen to that part of the apple.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),1,D,D,Reasoning:A sandwich rotting in a trashcan and an apple turning brown are both chemical changes. The final answer: (D).,A sandwich rotting in a trashcan and an apple turning brown are both chemical changes.,D,1
+1523,,"What do these two changes have in common?
+using polish to remove tarnish from a silver spoon
+a penny tarnishing","['Both are chemical changes.', 'Both are caused by heating.', 'Both are caused by cooling.', 'Both are only physical changes.']",0,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+A tarnished silver spoon is one that has become less shiny over time. Polishing the spoon makes it look shiny again.
+The polish changes the tarnish into a different type of matter that can be easily wiped away. So, using polish to remove tarnish from silver is a chemical change.
+Metal turning less shiny over time is called tarnishing. A penny tarnishing is a chemical change. When air touches the penny, the surface of the penny changes into a different type of matter. This matter makes the penny dull.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:Nickel tarnish can be removed by using polish. Polish removes tarnish from silver spoons. The final answer: (A).,Nickel tarnish can be removed by using polish. Polish removes tarnish from silver spoons.,A,1
+8990,,"What do these two changes have in common?
+newly poured concrete becoming hard
+a copper statue turning green","['Both are caused by heating.', 'Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by cooling.']",1,,closed choice,grade7,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Concrete hardening is a chemical change. The chemicals in the concrete react with each other to form a different type of matter. The new matter is hard and strong.
+A copper statue turning green is a chemical change. The copper reacts with oxygen in the air. This reaction forms a different type of matter called copper oxide. The copper oxide is green.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(B),1,B,B,Reasoning:Concrete becomes hard and copper statue turns green. Newly poured concrete becomes hard and copper statue turns green. The final answer: (B).,Concrete becomes hard and copper statue turns green. Newly poured concrete becomes hard and copper statue turns green.,B,1
+10678,,What is the United States Constitution?,"['a religious text from the Middle Ages', 'a written plan for the government of the United States', 'the first law written by English colonists in North America', 'a list of all the people who have served in the United States government']",1,,closed choice,grade4,social science,civics,Correct–Correct,The Constitution,,"The Constitution begins with the famous words ""We the People.""
+The United States Constitution is a written plan for the government of the United States. The plan is included in a single document, or piece of writing.
+""The highest law in the land""
+Because the Constitution is the plan for the United States government, it includes some of the most important rules and laws in the United States. No laws are allowed to go against the Constitution. For that reason, the Constitution is often called ""the highest law in the land.""",(B),1,B,B,Reasoning:The United States Constitution is a written plan for the government of the United States. The final answer: (B).,The United States Constitution is a written plan for the government of the United States.,B,1
+6630,,Select the amphibian.,"['fire salamander', 'gharial', 'green moray eel', 'whale shark']",0,,closed choice,grade5,natural science,biology,Correct–Correct,"Identify mammals, birds, fish, reptiles, and amphibians",Amphibians have moist skin and begin their lives in water.,"A green moray eel is a fish. It lives underwater. It has fins, not limbs.
+Eels are long and thin. They may have small fins. They look like snakes, but they are fish!
+A whale shark is a fish. It lives underwater. It has fins, not limbs.
+Whale sharks are the largest fish in the world! Adult whale sharks can weigh over 21 tons—as much as seven elephants!
+A fire salamander is an amphibian. It has moist skin and begins its life in water.
+Fire salamanders can release poison from their skin. This poison helps protect them from predators.
+A gharial is a reptile. It has scaly, waterproof skin.
+Gharials are a type of crocodile. Gharials live near rivers and eat fish.",A,1,A,A,Reasoning:Green moray eel is an amphibian. The final answer: (A).,Green moray eel is an amphibian.,A,1
+3961,,How long is a hammer?,"['10 feet', '10 miles', '10 inches', '10 yards']",2,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Correct–Correct,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of a hammer is 10 inches.
+10 feet, 10 yards, and 10 miles are all too long.",C,1,C,C,Reasoning:A hammer is 10 inches long. The final answer: (C).,A hammer is 10 inches long.,C,1
+10668,,The War of 1812 was between the United States and which other country?,"['Great Britain', 'Russia', 'France', 'Germany']",0,,closed choice,grade4,social science,us-history,Correct–Correct,The War of 1812: causes,,The War of 1812 was between the United States and Great Britain.,(A),1,A,A,Reasoning:The War of 1812 was between the United States and Great Britain. The final answer: (A).,The War of 1812 was between the United States and Great Britain.,A,1
+5164,,Select the vertebrate.,"['golden frog', 'Caribbean reef octopus', 'honey bee', 'weaver ant']",0,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade5,natural science,biology,Correct–Correct,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A golden frog is an amphibian. Like other amphibians, a golden frog is a vertebrate. It has a backbone.
+A weaver ant is an insect. Like other insects, a weaver ant is an invertebrate. It does not have a backbone. It has an exoskeleton.
+Like other octopuses, a Caribbean reef octopus is an invertebrate. It does not have a backbone. It has a soft body.
+A honey bee is an insect. Like other insects, a honey bee is an invertebrate. It does not have a backbone. It has an exoskeleton.",(A),1,A,A,Reasoning:Vertebrates are a group of vertebrates. The final answer: (A).,Vertebrates are a group of vertebrates.,A,1
+2329,,"Which type of sentence is this?
+As Colton sat down on the rickety old chair, it abruptly collapsed beneath him.","['compound', 'compound-complex', 'simple', 'complex']",3,,closed choice,grade12,language science,grammar,Correct–Correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is complex. It is made up of an independent clause and a dependent clause. The dependent clause begins with the subordinating conjunction as.
+As Colton sat down on the rickety old chair, it abruptly collapsed beneath him.",(D),1,D,D,"Reasoning:Colton sat down on the rickety old chair, it abruptly collapsed beneath him. The final answer: (D).","Colton sat down on the rickety old chair, it abruptly collapsed beneath him.",D,1
+6447,,Select the gas.,"['water in a sink', 'door', 'tortoise shell', 'helium']",3,,closed choice,grade3,natural science,physics,Correct–Correct,"Identify solids, liquids, and gases","Solid, liquid, and gas are states of matter. Matter is anything that takes up space. Matter can come in different states, or forms.
+When matter is a solid, it has a definite volume and a definite shape. So, a solid has a size and shape of its own.
+Some solids can be easily folded, bent, or broken. A piece of paper is a solid. Also, some solids are very small. A grain of sand is a solid.
+When matter is a liquid, it has a definite volume but not a definite shape. So, a liquid has a size of its own, but it does not have a shape of its own. Think about pouring juice from a bottle into a cup. The juice still takes up the same amount of space, but it takes the shape of the bottle.
+Some liquids do not pour as easily as others. Honey and milk are both liquids. But pouring honey takes more time than pouring milk.
+When matter is a gas, it does not have a definite volume or a definite shape. A gas expands, or gets bigger, until it completely fills a space. A gas can also get smaller if it is squeezed into a smaller space.
+Many gases are invisible. Air is a gas.","A door is a solid. A solid has a size and shape of its own. When you open or close a door, it keeps its shape.
+The water in a sink is a liquid. A liquid takes the shape of any container it is in. If you move the water from a sink into a different container, the water will take the shape of that container. But the water will still take up the same amount of space.
+Helium is a gas. A gas expands to fill a space. Helium is lighter than air. So, if you fill a balloon with helium, the balloon will rise. If helium leaks out of the balloon, the helium will expand into the space around the balloon.
+A tortoise shell is a solid. A solid has a size and shape of its own. A tortoise shell is made of a solid called keratin, just like your fingernails!",D,1,D,D,Reasoning:Helium is a gas. The final answer: (D).,Helium is a gas.,D,1
+913,,Select the invertebrate.,"['saturn butterfly', 'robin', 'Galapagos giant tortoise', 'ground squirrel']",0,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Correct–Correct,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A saturn butterfly is an insect. Like other insects, a saturn butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A ground squirrel is a mammal. Like other mammals, a ground squirrel is a vertebrate. It has a backbone.
+A Galapagos giant tortoise is a reptile. Like other reptiles, a Galapagos giant tortoise is a vertebrate. It has a backbone.
+A robin is a bird. Like other birds, a robin is a vertebrate. It has a backbone.",A,1,A,A,Reasoning:The Galapagos giant tortoise is an invertebrate. The Galapagos giant tortoise is an invertebrate. The final answer: (A).,The Galapagos giant tortoise is an invertebrate. The Galapagos giant tortoise is an invertebrate.,A,1
+1310,,"What do these two changes have in common?
+acid rain weathering a marble statue
+compost rotting","['Both are caused by heating.', 'Both are caused by cooling.', 'Both are only physical changes.', 'Both are chemical changes.']",3,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Acid rain weathering a marble statue is a chemical change. The acid rain reacts with the outside of the statue and breaks it down into a different type of matter. This new matter is then washed away by the rain. Acid rain is a type of pollution. It forms when smoke from automobiles and factories mixes with water in clouds.
+Acid rain is a type of pollution. It forms when automobiles and factories release smoke containing sulfur or nitrogen. Some of these chemicals react with water in the atmosphere. The reaction forms droplets of water that can fall back to the ground as acid rain.
+Compost forms from the remains of plants and animals, such as vegetable scraps and egg shells. Compost rotting is a chemical change. As the compost rots, it breaks down and turns into a different type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",D,1,D,D,Reasoning:Acid rain weathering a marble statue compost rotting. The final answer: (D).,Acid rain weathering a marble statue compost rotting.,D,1
+1312,,"What do these two changes have in common?
+an old sandwich rotting in a trashcan
+plants making food from sunlight, air, and water","['Both are caused by heating.', 'Both are only physical changes.', 'Both are chemical changes.', 'Both are caused by cooling.']",2,,closed choice,grade4,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+A sandwich rotting is a chemical change. The matter in the sandwich breaks down and slowly turns into a different type of matter.
+Plants making food is a chemical change. Plants use energy from sunlight to change air and water into food. The food is sugar. Sugar is a different type of matter than air or water.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),1,C,C,"Reasoning:Plants make food from sunlight, air, and water. The final answer: (C).","Plants make food from sunlight, air, and water.",C,1
+10233,,Select the bird.,"['dwarf crocodile', 'human', 'gray crowned crane', 'wombat']",2,,closed choice,grade5,natural science,biology,Correct–Correct,"Identify mammals, birds, fish, reptiles, and amphibians","Birds have feathers, two wings, and a beak.","A wombat is a mammal. It has fur and feeds its young milk.
+Wombats have strong claws on their front feet. They use their claws to dig underground holes called burrows.
+A human is a mammal. It has hair and feeds its young milk.
+Humans are a type of animal called a primate. Monkeys and apes are also primates.
+A dwarf crocodile is a reptile. It has scaly, waterproof skin.
+Crocodiles hunt their prey in or near water.
+A gray crowned crane is a bird. It has feathers, two wings, and a beak.
+Cranes wade in shallow water to look for food. Cranes eat insects, worms, and plants.",C,1,C,C,Reasoning:Gray crowned crane is a species of bird. The final answer: (C).,Gray crowned crane is a species of bird.,C,1
+2503,,"Which type of sentence is this?
+As Harry sat down on the rickety old chair, it abruptly collapsed beneath him.","['simple', 'complex', 'compound-complex', 'compound']",1,,closed choice,grade8,language science,grammar,Correct–Correct,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is complex. It is made up of an independent clause and a dependent clause. The dependent clause begins with the subordinating conjunction as.
+As Harry sat down on the rickety old chair, it abruptly collapsed beneath him.",(B),1,B,B,Reasoning:The chair collapsed beneath Harry as he sat down on it. The final answer: (B).,The chair collapsed beneath Harry as he sat down on it.,B,1
+7904,,"Complete the sentence.
+ Paul Revere played an important role in ().","['the American Revolution', 'the Mayflower voyage', 'the Civil War', 'World War II']",0,,closed choice,grade3,social science,us-history,Correct–Correct,Paul Revere,,"Paul Revere played an important role in the American Revolution. The American Revolution took place between 1765 and 1783.
+Americans fought the revolution to win freedom from Great Britain. Men and women who fought for freedom from British rule were called Patriots. Paul Revere was one of the most famous Patriots.",(A),1,A,A,Reasoning:Paul Revere played an important role in the Civil War. The final answer: (A).,Paul Revere played an important role in the Civil War.,A,1
+769,,Select the animal.,"['Aloe vera has spiny leaves.', 'Hummingbirds walk and fly.', 'Mango trees have many leaves.', 'Giant water lilies can grow big flowers.']",1,,closed choice,grade3,natural science,biology,Correct–Correct,Identify plants and animals,"Plants and animals are living things. Living things are called organisms.
+Plants come in many shapes and sizes. Most plants grow in the ground. They might grow leaves, flowers, and fruit. Plants cannot move around on their own like animals can.
+Animals also come in many shapes and sizes. Most animals can move around. Animals might run, swim, jump, or fly. Animals eat plants or other organisms for food.","Aloe vera is a plant. It has spiny leaves.
+Aloe vera leaves contain a watery liquid. People use this liquid in lotion and medicine.
+A mango tree is a plant. It has many green leaves.
+Mango trees can grow to over 100 feet tall!
+A hummingbird is an animal. It walks and flies.
+A hummingbird can fly backwards and upside-down!
+A giant water lily is a plant. It can grow big flowers.
+Giant water lilies grow in the Amazon river in South America.",B,1,B,B,Reasoning:Hummingbirds walk and fly. Hummingbirds have spiny leaves. The final answer: (B).,Hummingbirds walk and fly. Hummingbirds have spiny leaves.,B,1
+8735,,How long is a walk across Central Park in New York City?,"['2 millimeters', '2 meters', '2 kilometers', '2 centimeters']",2,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Correct–Correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a walk across Central Park in New York City is 2 kilometers.
+2 millimeters, 2 centimeters, and 2 meters are all too short.",C,1,C,C,Reasoning:A walk across Central Park in New York City takes 2 minutes. The final answer: (C).,A walk across Central Park in New York City takes 2 minutes.,C,1
+4004,,Select the description that doesn't belong.,"['adult', 'child', 'aunt', 'teen']",2,,closed choice,grade3,language science,vocabulary,Correct–Correct,Select the words that don't belong,,"Aunt doesn't belong.
+Child, teen, and adult all describe stages of life.",C,1,C,C,Reasoning:Adults do not have children. Adults do not have children. The final answer: (C).,Adults do not have children. Adults do not have children.,C,1
+10959,,How long is a sunflower seed?,"['10 meters', '10 centimeters', '10 kilometers', '10 millimeters']",3,Select the best estimate.,closed choice,grade6,natural science,units-and-measurement,Correct–Correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a sunflower seed is 10 millimeters.
+10 centimeters, 10 meters, and 10 kilometers are all too long.",D,1,D,D,Reasoning:A sunflower seed has a length of 10 millimeters. The final answer: (D).,A sunflower seed has a length of 10 millimeters.,D,1
+4073,,Select the bird.,"['western gorilla', 'red crowned crane', 'Asian elephant', 'giraffe']",1,,closed choice,grade5,natural science,biology,Correct–Correct,"Identify mammals, birds, fish, reptiles, and amphibians","Birds have feathers, two wings, and a beak.","An Asian elephant is a mammal. It has hair and feeds its young milk.
+Elephants live in groups called herds. The oldest female in the herd is usually the leader.
+A giraffe is a mammal. It has hair and feeds its young milk.
+Giraffes eat mostly leaves that are too high up for other animals to reach.
+A red crowned crane is a bird. It has feathers, two wings, and a beak.
+Cranes wade in shallow water to look for food. Cranes eat insects, worms, and plants.
+A western gorilla is a mammal. It has fur and feeds its young milk.
+Gorillas live in groups called troops. The largest male in the troop is usually the leader.",B,1,B,B,Reasoning:Red crowned crane is a species of bird. The final answer: (B).,Red crowned crane is a species of bird.,B,1
+5606,,"What do these two changes have in common?
+making jam
+a slice of banana turning brown","['Both are caused by heating.', 'Both are caused by cooling.', 'Both are only physical changes.', 'Both are chemical changes.']",3,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Making jam is a chemical change. It involves mixing fruit, sugar, and a substance called pectin.
+When these ingredients are mixed and cooked, the chemical bonds in their molecules are broken. The atoms then link together to form different molecules that make up the jam.
+A slice of banana turning brown is a chemical change. The part of the banana in contact with the air reacts with oxygen and turns into a different type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+The reaction that makes jam is caused by heating. But a slice of banana turning brown is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",D,1,D,D,Reasoning:A slice of banana turning brown is a chemical change. The physical changes are the same. The final answer: (D).,A slice of banana turning brown is a chemical change. The physical changes are the same.,D,1
+2533,,"What do these two changes have in common?
+a piece of pear turning brown
+baking cookies","['Both are chemical changes.', 'Both are caused by cooling.', 'Both are only physical changes.', 'Both are caused by heating.']",0,,closed choice,grade4,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+A piece of a pear turning brown is a chemical change. The substances in the pear react with oxygen in the air and turn into a different type of matter.
+If you scrape off the brown part of the pear, the inside will still be white. The inside hasn't touched the air. So the chemical change hasn't happened to that part of the pear.
+Baking cookies is a chemical change. The type of matter in the cookie dough changes when it is baked. The cookie dough turns into cookies!
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Baking is caused by heating. But a piece of pear turning brown is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:A piece of pear turning brown baking cookies is a chemical change. Both changes are chemical changes. The final answer: (A).,A piece of pear turning brown baking cookies is a chemical change. Both changes are chemical changes.,A,1
+2789,,"What do these two changes have in common?
+a piece of pear turning brown
+salt and vinegar removing tarnish from a penny","['Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.', 'Both are chemical changes.']",3,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+A piece of a pear turning brown is a chemical change. The substances in the pear react with oxygen in the air and turn into a different type of matter.
+If you scrape off the brown part of the pear, the inside will still be white. The inside hasn't touched the air. So the chemical change hasn't happened to that part of the pear.
+Salt and vinegar removing tarnish from a penny is a chemical change. The salt and vinegar change the tarnish into a different type of matter that can be easily wiped away. This makes the penny look shiny again.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),1,D,D,Reasoning:A piece of pear turning brown salt and vinegar removing tarnish from a penny. The final answer: (D).,A piece of pear turning brown salt and vinegar removing tarnish from a penny.,D,1
+2684,,"What do these two changes have in common?
+chemicals in a battery reacting to power a flashlight
+an old sandwich rotting in a trashcan","['Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by cooling.', 'Both are caused by heating.']",0,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Chemicals in a battery reacting to power a flashlight is a chemical change. When the flashlight is turned on, the chemicals in the battery react with each other to form new chemicals. This creates electricity, which powers the lightbulb.
+A sandwich rotting is a chemical change. The matter in the sandwich breaks down and slowly turns into a different type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:Chemicals reacting to power a flashlight and an old sandwich rotting in a trashcan are chemical changes. The final answer: (A).,Chemicals reacting to power a flashlight and an old sandwich rotting in a trashcan are chemical changes.,A,1
+8721,,"What do these two changes have in common?
+milk going sour
+rust forming on a metal gate","['Both are only physical changes.', 'Both are caused by heating.', 'Both are chemical changes.', 'Both are caused by cooling.']",2,,closed choice,grade3,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Milk going sour is a chemical change. The type of matter in the milk slowly changes. The new matter that is formed gives the milk its sour taste.
+Rust forming on a metal gate is a chemical change. As the gate rusts, the metal turns into a different type of matter called rust. Rust is reddish-brown and falls apart easily.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),1,C,C,Reasoning:Milk going sour and rust forming on a metal gate are chemical changes. The final answer: (C).,Milk going sour and rust forming on a metal gate are chemical changes.,C,1
+2804,,"What do these two changes have in common?
+an old sandwich rotting in a trashcan
+milk going sour","['Both are caused by heating.', 'Both are only physical changes.', 'Both are chemical changes.', 'Both are caused by cooling.']",2,,closed choice,grade7,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+A sandwich rotting is a chemical change. The matter in the sandwich breaks down and slowly turns into a different type of matter.
+Milk going sour is a chemical change. The type of matter in the milk slowly changes. The new matter that is formed gives the milk its sour taste.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),1,C,C,Reasoning:(C) Both are chemical changes. An old sandwich rotting in a trashcan milk going sour is a chemical change. The final answer: (C).,(C) Both are chemical changes. An old sandwich rotting in a trashcan milk going sour is a chemical change.,C,1
+786,,How long is a garden snail?,"['27 meters', '27 millimeters', '27 kilometers', '27 centimeters']",1,Select the best estimate.,closed choice,grade6,natural science,units-and-measurement,Correct–Correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a garden snail is 27 millimeters.
+27 centimeters, 27 meters, and 27 kilometers are all too long.",(B),1,B,B,Reasoning:Snails are 27 cm long. The final answer: (B).,Snails are 27 cm long.,B,1
+10833,,"What do these two changes have in common?
+burning a marshmallow over a campfire
+rust forming on a bicycle frame","['Both are only physical changes.', 'Both are caused by heating.', 'Both are chemical changes.', 'Both are caused by cooling.']",2,,closed choice,grade4,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Burning a marshmallow is a chemical change. The heat from the fire causes the type of matter in the marshmallow to change. The marshmallow becomes black and crispy.
+Rust forming on a bicycle frame is a chemical change. Oxygen in the air reacts with iron in the bicycle frame. The outside of the frame turns into a different type of matter called rust. Rust is reddish-brown and falls apart easily.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Burning is caused by heating. But rust forming on a bicycle frame is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),1,C,C,Reasoning:Burning a marshmallow over a campfire causes rust to form on a bicycle frame. The final answer: (C).,Burning a marshmallow over a campfire causes rust to form on a bicycle frame.,C,1
+12116,,Select the amphibian.,"['wombat', 'barn owl', 'helmeted iguana', 'African bullfrog']",3,,closed choice,grade5,natural science,biology,Correct–Correct,"Identify mammals, birds, fish, reptiles, and amphibians",Amphibians have moist skin and begin their lives in water.,"An African bullfrog is an amphibian. It has moist skin and begins its life in water.
+Frogs live near water or in damp places. Most frogs lay their eggs in water.
+A wombat is a mammal. It has fur and feeds its young milk.
+Wombats have strong claws on their front feet. They use their claws to dig underground holes called burrows.
+A barn owl is a bird. It has feathers, two wings, and a beak.
+Barn owls live on every continent except Antarctica.
+A helmeted iguana is a reptile. It has scaly, waterproof skin.
+Iguanas are a type of lizard. Iguanas eat plants and fruit.",D,1,D,D,Reasoning:Wombat is an amphibian. Wombat is a reptile. Wombat is an amphibian. The final answer: (D).,Wombat is an amphibian. Wombat is a reptile. Wombat is an amphibian.,D,1
+30,,Select the living thing.,"['teddy bear', 'amoebae', 'van', 'kite']",1,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","A teddy bear is not a living thing.
+Teddy bears do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A kite is not a living thing.
+A kite does not have all the traits of a living thing. It moves fast in the wind, but it does not grow. It does not need food or water.
+A van is not a living thing.
+A van does not have all the traits of a living thing. Vans need energy, but they do not eat food. They get energy from gasoline or electricity. Vans do not grow.
+Amoebae are living things.
+Amoebae grow and respond to their environment. They need food and water.
+Amoebae are made up of just one cell. Amoebae live in fresh water, in salt water, and in the soil.",B,1,B,B,Reasoning:Amoebae are the only living things. The final answer: (B).,Amoebae are the only living things.,B,1
+1408,,Select the living thing.,"['sea star', 'backpack', 'the Statue of Liberty', 'iceberg']",0,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","A backpack is not a living thing.
+Backpacks do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A sea star is a living thing.
+Sea stars grow and respond to their environment. They need food and water. Sea stars are made up of many cells.
+Sea stars are animals. They can use their arms to walk on the ocean floor.
+An iceberg is not a living thing.
+An iceberg does not have all the traits of a living thing. It may grow or melt in response to the world around it, but it does not need food.
+The Statue of Liberty is not a living thing.
+The Statue of Liberty is shaped like a person. But it does not have all the traits of a living thing. It does not grow or respond to the world around it. It does not need food or water.",A,1,A,A,Reasoning:Sea star is a living thing. The final answer: (A).,Sea star is a living thing.,A,1
+6868,,"What do these two changes have in common?
+a banana getting ripe on the counter
+mixing glue and laundry powder to create putty","['Both are only physical changes.', 'Both are caused by heating.', 'Both are chemical changes.', 'Both are caused by cooling.']",2,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+A banana getting ripe on the counter is a chemical change. As a banana ripens, the type of matter in it changes. The peel changes color and the inside becomes softer and sweeter.
+Mixing glue and laundry powder to create putty is a chemical change. The putty is a different type of matter that was not there before the change.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),1,C,C,Reasoning:A banana getting ripe on the counter mixing glue and laundry powder to create putty. The final answer: (C).,A banana getting ripe on the counter mixing glue and laundry powder to create putty.,C,1
+6284,,"What do these two changes have in common?
+a log decomposing in the woods
+using polish to remove tarnish from a silver spoon","['Both are chemical changes.', 'Both are caused by heating.', 'Both are only physical changes.', 'Both are caused by cooling.']",0,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+The breakdown of plant and animal matter by organisms such as fungi and earthworms is called decomposition. A log decomposing in the woods is a chemical change.
+As the log breaks down, the type of matter in it changes. Over time, the log becomes softer and has a different smell.
+A tarnished silver spoon is one that has become less shiny over time. Polishing the spoon makes it look shiny again.
+The polish changes the tarnish into a different type of matter that can be easily wiped away. So, using polish to remove tarnish from silver is a chemical change.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:A log decomposing in the woods using polish to remove tarnish from a silver spoon is a chemical change. The final answer: (A).,A log decomposing in the woods using polish to remove tarnish from a silver spoon is a chemical change.,A,1
+9934,,"What do these two changes have in common?
+an old sandwich rotting in a trashcan
+a piece of pear turning brown","['Both are only physical changes.', 'Both are caused by cooling.', 'Both are caused by heating.', 'Both are chemical changes.']",3,,closed choice,grade4,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+A sandwich rotting is a chemical change. The matter in the sandwich breaks down and slowly turns into a different type of matter.
+A piece of a pear turning brown is a chemical change. The substances in the pear react with oxygen in the air and turn into a different type of matter.
+If you scrape off the brown part of the pear, the inside will still be white. The inside hasn't touched the air. So the chemical change hasn't happened to that part of the pear.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),1,D,D,Reasoning:A sandwich is rotting and a piece of pear is turning brown. The final answer: (D).,A sandwich is rotting and a piece of pear is turning brown.,D,1
+8933,,Hanukkah is a holiday in which religion?,"['Islam', 'Judaism', 'Hinduism', 'Christianity']",1,,closed choice,grade3,social science,culture,Correct–Correct,Hanukkah,,Hanukkah is a holiday in the religion of Judaism. Followers of Judaism are known as Jews.,B,1,B,B,Reasoning:Hanukkah is a holiday in Judaism. The final answer: (B).,Hanukkah is a holiday in Judaism.,B,1
+8016,,How long is a long-distance running race?,"['20 miles', '20 yards', '20 feet', '20 inches']",0,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Correct–Correct,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of a long-distance running race is 20 miles.
+20 inches, 20 feet, and 20 yards are all too short.",A,1,A,A,Reasoning:A long-distance running race takes 20 yards. The final answer: (A).,A long-distance running race takes 20 yards.,A,1
+2814,,Select the liquid.,"['beads', 'lemonade', 'air inside a balloon', 'empty cup']",1,,closed choice,grade3,natural science,physics,Correct–Correct,"Identify solids, liquids, and gases","Solid, liquid, and gas are states of matter. Matter is anything that takes up space. Matter can come in different states, or forms.
+When matter is a solid, it has a definite volume and a definite shape. So, a solid has a size and shape of its own.
+Some solids can be easily folded, bent, or broken. A piece of paper is a solid. Also, some solids are very small. A grain of sand is a solid.
+When matter is a liquid, it has a definite volume but not a definite shape. So, a liquid has a size of its own, but it does not have a shape of its own. Think about pouring juice from a bottle into a cup. The juice still takes up the same amount of space, but it takes the shape of the bottle.
+Some liquids do not pour as easily as others. Honey and milk are both liquids. But pouring honey takes more time than pouring milk.
+When matter is a gas, it does not have a definite volume or a definite shape. A gas expands, or gets bigger, until it completely fills a space. A gas can also get smaller if it is squeezed into a smaller space.
+Many gases are invisible. Air is a gas.","An empty cup is a solid. A solid has a size and shape of its own. When you fill a cup with water, the cup still has its own shape.
+Each bead in the jar is a solid. If you put many beads into a bottle, they will take the shape of the bottle, as a liquid would. But be careful! Beads are not a liquid. Each bead still has a size and shape of its own.
+The air inside a balloon is a gas. A gas expands to fill a space. The air inside a balloon expands to fill all the space in the balloon. If the balloon pops, the air will expand to fill a much larger space.
+Lemonade is a liquid. A liquid takes the shape of any container it is in. If you pour lemonade into a cup, the lemonade will take the shape of the cup. But the lemonade will still take up the same amount of space.",B,1,B,B,Reasoning:Lemonade is a drink made of lemon juice. Lemon juice is a liquid. The final answer: (B).,Lemonade is a drink made of lemon juice. Lemon juice is a liquid.,B,1
+11191,,"What do these two changes have in common?
+burning a candle
+a banana getting ripe on the counter","['Both are chemical changes.', 'Both are caused by cooling.', 'Both are only physical changes.', 'Both are caused by heating.']",0,,closed choice,grade4,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Burning a candle is a chemical change. Both the wick and the melted wax burn. They react with oxygen in the air and turn into soot, carbon dioxide, and water.
+A banana getting ripe on the counter is a chemical change. As a banana ripens, the type of matter in it changes. The peel changes color and the inside becomes softer and sweeter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Burning is caused by heating. But a banana getting ripe is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:A banana getting ripe on the counter is a chemical change. Burning a candle and a banana getting ripe on the counter are both chemical changes. The final answer: (A).,A banana getting ripe on the counter is a chemical change. Burning a candle and a banana getting ripe on the counter are both chemical changes.,A,1
+8326,,Select the living thing.,"['pushpin', 'stop sign', 'boulder', 'barnacle']",3,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","A pushpin is not a living thing.
+Pushpins do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A boulder is not a living thing.
+Boulders do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A stop sign is not a living thing.
+Stop signs do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A barnacle is a living thing.
+Barnacles grow and respond to their environment. They need food and water. Barnacles are made up of many cells.
+Barnacles are animals. They are related to crabs and lobsters. Barnacles attach to rocks, boats, and other animals.",D,1,D,D,Reasoning:Living things are a group of living things. The final answer: (D).,Living things are a group of living things.,D,1
+11795,,"Ancient China was ruled by dynasties. A dynasty is a line of rulers from the same family, which i often called the royal family. Starting in 1046 BCE, rulers from the Zhou (pronounced JO) dynasty claimed to have something called the Mandate of Heaven. A mandate is the authority to act in a certain way. What did it mean to have the Mandate of Heaven?","['Heaven made the ruler rich.', 'Heaven gave the ruler the authority to rule.', 'Heaven required the ruler to pray every day.', 'Heaven allowed the ruler to act however he wanted.']",1,,closed choice,grade7,social science,world-history,Correct–Correct,Early Chinese thought,,"When a person has a mandate, it means that he or she is allowed to act in a certain way. In ancient China, the Mandate of Heaven meant that a ruler had special authority to rule, and that authority came from heaven.
+The Mandate of Heaven gave a ruler permission to act in a certain way, so the ruler was not allowed to act however he wanted. The Mandate of Heaven did not force the ruler to pray or make the ruler rich.
+What did ""heaven"" mean in ancient China?
+People in ancient China did not think heaven was a place where people went after they died. Instead, heaven was a general force, like the universe or cosmos.",(B),1,B,B,"Reasoning:(B) Heaven gave the ruler the authority to rule. Starting in 1046 BCE, rulers from the Zhou dynasty claimed to have something called the Mandate of Heaven. A mandate is the authority to act in a certain way. The final answer: (B).","(B) Heaven gave the ruler the authority to rule. Starting in 1046 BCE, rulers from the Zhou dynasty claimed to have something called the Mandate of Heaven. A mandate is the authority to act in a certain way.",B,1
+9595,,The First Amendment says that the government cannot make laws that take away a person's freedom of speech. What does it say about laws about religion?,"['The government can choose an official religion if enough people vote for it.', 'The government cannot make any laws that take away freedom of religion.', 'The government can make laws about some religions, but not all of them.', 'The government can make laws to support a religion but not to oppose a religion.']",1,,closed choice,grade4,social science,civics,Correct–Correct,The Bill of Rights,,"The First Amendment says that the government cannot make any laws that take away freedom of religion. Freedom of speech means that Americans can say and write what they want. But there are some limits on freedom of speech. For example, a person cannot write lies about someone in a newspaper. But the government cannot stop speech just because someone disagrees with it. Freedom of religion means a person can choose his or her own religion. In the United States, the government cannot tell a person what to believe. The complete text of the First Amendment is below. Does it mention any other rights? Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.",B,1,B,B,Reasoning:The government cannot make laws that take away a person's freedom of speech. The final answer: (B).,The government cannot make laws that take away a person's freedom of speech.,B,1
+5671,,"What do these two changes have in common?
+rust forming on a metal gate
+burning a candle","['Both are chemical changes.', 'Both are caused by heating.', 'Both are only physical changes.', 'Both are caused by cooling.']",0,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Rust forming on a metal gate is a chemical change. As the gate rusts, the metal turns into a different type of matter called rust. Rust is reddish-brown and falls apart easily.
+Burning a candle is a chemical change. Both the wick and the melted wax burn. They react with oxygen in the air and turn into soot, carbon dioxide, and water.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Burning is caused by heating. But rust forming on a metal gate is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:Rust forms on a metal gate burning a candle. The final answer: (A).,Rust forms on a metal gate burning a candle.,A,1
+7690,,The Declaration of Independence is one of the most famous documents in United States history. A declaration of independence is a document created by the people of one country to say they are no longer part of another country. Which of the following is an example of a declaration of independence?,"['a document saying that the United States had won World War II', 'a document stating that the United States was no longer part of the British Empire', 'a document declaring that the United States would no longer allow slavery', 'a document describing the major laws of the federal government']",1,,closed choice,grade8,social science,us-history,Correct–Correct,Source analysis: the Declaration of Independence,,"A declaration of independence is a document that states that the people of one country will no longer be part of another country. So, the United States's Declaration of Independence stated that the people of the United States would no longer be part of the British Empire.
+Many people believe that the laws of the United States are in the Declaration of Independence, but that is not correct. Those laws are in the Constitution.",(B),1,B,B,Reasoning:A declaration of independence is a document created by the people of one country to say they are no longer part of another country. The final answer: (B).,A declaration of independence is a document created by the people of one country to say they are no longer part of another country.,B,1
+9231,,"What do these two changes have in common?
+silver jewelry tarnishing
+baking a loaf of bread","['Both are only physical changes.', 'Both are chemical changes.', 'Both are caused by heating.', 'Both are caused by cooling.']",1,,closed choice,grade4,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Metal turning less shiny over time is called tarnishing. Silver jewelry tarnishing is a chemical change. The silver reacts with sulfur in the air to form black tarnish. The tarnish is a different type of matter that was not there before the change.
+Baking a loaf of bread is a chemical change. The type of matter in the dough changes when it is baked. The dough turns into bread!
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Baking is caused by heating. But silver tarnishing is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(B),1,B,B,Reasoning:Silver jewelry and baking a loaf of bread are both chemical changes. The final answer: (B).,Silver jewelry and baking a loaf of bread are both chemical changes.,B,1
+985,,Which organ receives signals from the body's senses?,"['skeleton', 'heart', 'stomach', 'brain']",3,,closed choice,grade5,natural science,biology,Correct–Correct,Human organs and their functions,,,D,1,D,D,Reasoning:Brain receives signals from the body's senses. The final answer: (D).,Brain receives signals from the body's senses.,D,1
+11419,,"What do these two changes have in common?
+baking an apple pie
+rust forming on a metal gate","['Both are only physical changes.', 'Both are chemical changes.', 'Both are caused by heating.', 'Both are caused by cooling.']",1,,closed choice,grade3,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Baking an apple pie is a chemical change. The type of matter in the pie changes. The apples become soft, and the crust turns brown.
+Rust forming on a metal gate is a chemical change. As the gate rusts, the metal turns into a different type of matter called rust. Rust is reddish-brown and falls apart easily.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Baking is caused by heating. But rust forming on a metal gate is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(B),1,B,B,Reasoning:Baking an apple pie rust forms on a metal gate. The final answer: (B).,Baking an apple pie rust forms on a metal gate.,B,1
+702,,"What do these two changes have in common?
+a penny tarnishing
+chicken cooking in an oven","['Both are caused by heating.', 'Both are chemical changes.', 'Both are caused by cooling.', 'Both are only physical changes.']",1,,closed choice,grade4,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Metal turning less shiny over time is called tarnishing. A penny tarnishing is a chemical change. When air touches the penny, the surface of the penny changes into a different type of matter. This matter makes the penny dull.
+Cooking chicken is a chemical change. The heat causes the matter in the chicken to change. Cooked chicken and raw chicken are different types of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Cooking is caused by heating. But a penny tarnishing is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(B),1,B,B,Reasoning:A penny tarnishing chicken cooking in an oven can be caused by both heating and cooling. The final answer: (B).,A penny tarnishing chicken cooking in an oven can be caused by both heating and cooling.,B,1
+3429,,Select the living thing.,"['iceberg', 'pushpin', 'strawberry bush', 'soap bubble']",2,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","An iceberg is not a living thing.
+An iceberg does not have all the traits of a living thing. It may grow or melt in response to the world around it, but it does not need food.
+A pushpin is not a living thing.
+Pushpins do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A strawberry bush is a living thing.
+Strawberry bushes grow and respond to their environment. They need food and water. Strawberry bushes are made up of many cells.
+Strawberry bushes are plants. They make their own food using water, carbon dioxide, and energy from sunlight.
+A soap bubble is not a living thing.
+A soap bubble may grow or pop in response to the world around it. But it does not have all the traits of a living thing. It does not need food.",C,1,C,C,Reasoning:A strawberry bush is a living thing. The final answer: (C).,A strawberry bush is a living thing.,C,1
+9468,,How long is the Panama Canal?,"['50 feet', '50 inches', '50 yards', '50 miles']",3,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Correct–Correct,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of the Panama Canal is 50 miles.
+50 inches, 50 feet, and 50 yards are all too short.",D,1,D,D,Reasoning:Panama Canal is 50 miles long. The final answer: (D).,Panama Canal is 50 miles long.,D,1
+5771,,Select the living thing.,"['cave', 'cobra', 'toy car', 'ferris wheel']",1,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","A toy car is not a living thing.
+If this toy car is wound up, it will roll forward. But toy cars do not have all of the traits of living things. They do not grow. They do not need food or water.
+A cave is not a living thing.
+A cave may have animals or plants living inside. But a cave does not have all the traits of a living thing. A cave does not need food or water.
+A cobra is a living thing.
+Cobras grow and respond to their environment. They need food and water. Cobras are made up of many cells.
+A ferris wheel is not a living thing.
+A ferris wheel does not have all the traits of a living thing. It moves in a circle, but it does not grow. It does not need food or water.",B,1,B,B,Reasoning:Cobra is a mammal. Mammals can be selected from the list of living things. The final answer: (B).,Cobra is a mammal. Mammals can be selected from the list of living things.,B,1
+9565,,Select the plant.,"['Loons walk, fly, and swim.', 'Walnut trees have many green leaves.', 'Yellow jackets drink nectar and fruit.', 'Lionfish swim underwater.']",1,,closed choice,grade3,natural science,biology,Correct–Correct,Identify plants and animals,"Plants and animals are living things. Living things are called organisms.
+Plants come in many shapes and sizes. Most plants grow in the ground. They might grow leaves, flowers, and fruit. Plants cannot move around on their own like animals can.
+Animals also come in many shapes and sizes. Most animals can move around. Animals might run, swim, jump, or fly. Animals eat plants or other organisms for food.","A yellow jacket is an animal. It drinks nectar and eats fruit.
+A yellow jacket is an insect. Yellow jackets have two wings.
+A walnut tree is a plant. It has many green leaves.
+People pick and eat walnuts from walnut trees. Walnuts are the tree's seeds!
+A loon is an animal. It walks, flies, and swims.
+A loon is a bird. Loons live near lakes and dive in the water to hunt for food.
+A lionfish is an animal. It swims underwater.
+Lionfish have poisonous venom on the tips of their fins. This poison helps protect lionfish from predators.",B,1,B,B,Reasoning:Walnut trees have many green leaves. The final answer: (B).,Walnut trees have many green leaves.,B,1
+1971,,"What do these two changes have in common?
+acid rain weathering a marble statue
+deep-frying chicken","['Both are caused by heating.', 'Both are only physical changes.', 'Both are chemical changes.', 'Both are caused by cooling.']",2,,closed choice,grade7,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Acid rain weathering a marble statue is a chemical change. The acid rain reacts with the outside of the statue and breaks it down into a different type of matter. This new matter is then washed away by the rain. Acid rain is a type of pollution. It forms when smoke from automobiles and factories mixes with water in clouds.
+Acid rain is a type of pollution. It forms when automobiles and factories release smoke containing sulfur or nitrogen. Some of these chemicals react with water in the atmosphere. The reaction forms droplets of water that can fall back to the ground as acid rain.
+Deep-frying chicken is a chemical change. The heat causes the matter in the chicken to change. Cooked chicken and raw chicken are different types of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Cooking is caused by heating. But acid rain weathering a marble statue is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),1,C,C,Reasoning:Acid rain weathering a marble statue deep-frying chicken are both chemical changes. The final answer: (C).,Acid rain weathering a marble statue deep-frying chicken are both chemical changes.,C,1
+8547,,Select the living thing.,"['swing set', 'koala', 'brick wall', 'bathtub']",1,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","A brick wall is not a living thing.
+Brick walls do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A swing set is not a living thing.
+Swing sets do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A bathtub is not a living thing.
+Bathtubs do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A koala is a living thing.
+Koalas grow and respond to their environment. They need food and water. Koalas are made up of many cells.",B,1,B,B,Reasoning:Koala is a living thing. The final answer: (B).,Koala is a living thing.,B,1
+3044,,"From Whitman's account, what probably happened at the battle?","['The Union army fought the Confederate army to a tie.', 'The Union army was defeated and forced to retreat.', 'The Union army won the battle and took Manassas Junction.', 'The Confederate army had burned down the Long Bridge.']",1,"In June 1861, the Union army marched south from Washington, D.C., into Virginia. Its goal was to seize Manassas Junction, an important railroad center.
+The following passage is the memory of Walt Whitman, who was living in Washington, D.C., at the time. Use it to answer the question below.
+The defeated troops [started] pouring into Washington over the Long Bridge at daylight on Monday, 22nd July . . . all the men with this coating of sweat and rain, now recoiling back, pouring over the Long Bridge — a horrible march of twenty miles, returning to Washington baffled, humiliated, panic-struck.",closed choice,grade4,social science,us-history,Correct–Correct,The Civil War: the First Battle of Bull Run to Gettysburg,,"Look at the underlined sentences from the passage.
+The defeated troops [started] pouring into Washington over the Long Bridge at daylight on Monday, 22 nd July . . . all the men with this coating of sweat and rain, now recoiling back, pouring over the Long Bridge — a horrible march of twenty miles, returning to Washington baffled, humiliated, panic-struck.
+Remember that Walt Whitman was writing about the Union army. Whitman uses words such as ""defeated,"" ""humiliated,"" and ""panic-struck"" to describe the returning Union soldiers. The Union army was defeated and forced to retreat.",(B),1,B,B,Reasoning:The Union army fought the Confederate army to a tie. The final answer: (B).,The Union army fought the Confederate army to a tie.,B,1
+2248,,How long is the Mississippi River?,"['2,300 feet', '2,300 inches', '2,300 yards', '2,300 miles']",3,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Correct–Correct,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of the Mississippi River is 2,300 miles.
+2,300 inches, 2,300 feet, and 2,300 yards are all too short.",D,1,D,D,"Reasoning:The Mississippi River is 2,300 miles long. The final answer: (D).","The Mississippi River is 2,300 miles long.",D,1
+5089,,"Complete the sentence.
+The federal government has () branches.","['four', 'three', 'five', 'two']",1,,closed choice,grade4,social science,civics,Correct–Correct,Federal government,,"The federal government has three branches. They are called the executive, legislative, and judicial branches.
+Each branch of government has its own jobs and responsibilities. This system keeps any one part of the government from having too much power.",(B),1,B,B,Reasoning:Each branch of the federal government has four branches. The final answer: (B).,Each branch of the federal government has four branches.,B,1
+12022,,Which organ works in groups to move the body's bones?,"['heart', 'stomach', 'brain', 'muscles']",3,,closed choice,grade5,natural science,biology,Correct–Correct,Human organs and their functions,,,D,1,D,D,Reasoning:Muscles work in groups to move the body's bones. The final answer: (D).,Muscles work in groups to move the body's bones.,D,1
+4658,,Select the fish.,"['shoebill', 'golden frog', 'bison', 'hammerhead shark']",3,,closed choice,grade5,natural science,biology,Correct–Correct,"Identify mammals, birds, fish, reptiles, and amphibians","Fish live underwater. They have fins, not limbs.","A hammerhead shark is a fish. It lives underwater. It has fins, not limbs.
+Hammerhead sharks get their names from the shape of their heads. They have a wide, flat head and a small mouth.
+A golden frog is an amphibian. It has moist skin and begins its life in water.
+Frogs live near water or in damp places. Most frogs lay their eggs in water.
+A bison is a mammal. It has fur and feeds its young milk.
+Male bison have horns. They can use their horns to defend themselves.
+A shoebill is a bird. It has feathers, two wings, and a beak.
+Shoebills live in tropical East Africa. Shoebills get their name from their shoe-shaped beaks.",D,1,D,D,Reasoning:Golden frog is a species of fish. The final answer: (D).,Golden frog is a species of fish.,D,1
+12276,,Select the living thing.,"['yucca', 'candle', 'windmill', 'airplane']",0,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","Yucca is a living thing.
+Yucca grows and responds to its environment. It needs food and water. It is made up of many cells.
+Yucca is a plant. It uses water, air, and sunlight to make food.
+A candle is not a living thing.
+A candle does not have all the traits of a living thing. It gives off light and heat, but it does not need food or water to survive.
+An airplane is not a living thing.
+An airplane does not have all the traits of a living thing. It needs energy to fly, but it does not eat food. Airplanes get energy from gasoline or other fuel. They do not grow.
+A windmill is not a living thing.
+A windmill does not have all the traits of a living thing. It moves in the wind, but it does not grow. It does not need food or water.",A,1,A,A,Reasoning:Yucca is a flowering plant in the sunflower family. The final answer: (A).,Yucca is a flowering plant in the sunflower family.,A,1
+11697,,"What do these two changes have in common?
+making jam
+photosynthesis","['Both are chemical changes.', 'Both are caused by cooling.', 'Both are only physical changes.', 'Both are caused by heating.']",0,,closed choice,grade7,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Making jam is a chemical change. It involves mixing fruit, sugar, and a substance called pectin.
+When these ingredients are mixed and cooked, the chemical bonds in their molecules are broken. The atoms then link together to form different molecules that make up the jam.
+Photosynthesis is a chemical change. Plants make sugar using carbon dioxide, water, and energy from sunlight.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+The reaction that makes jam is caused by heating. But photosynthesis is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:A chemical change is a chemical change. Jam photosynthesis occurs when the cell divides into two groups of cells. The final answer: (A).,A chemical change is a chemical change. Jam photosynthesis occurs when the cell divides into two groups of cells.,A,1
+6041,,How long is a human front tooth?,"['10 kilometers', '10 meters', '10 centimeters', '10 millimeters']",3,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Correct–Correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a human front tooth is 10 millimeters.
+10 centimeters, 10 meters, and 10 kilometers are all too long.",D,1,D,D,Reasoning:A human front tooth is 10 millimeters long. The final answer: (D).,A human front tooth is 10 millimeters long.,D,1
+11522,,Select the living thing.,"['Mount Rushmore National Memorial', 'zebra', 'rainboot', 'bathtub']",1,,closed choice,grade4,natural science,biology,Correct–Correct,Identify living and nonliving things,"All living things are made up of cells. Plants, animals, and some fungi have many cells. Other living things are made up of just one cell.
+All living things need food and water. Water helps living things break down food and remove waste. Food gives living things energy. They use energy from food to grow and change.
+All living things sense changes in their environment. Living things might sense changes by seeing, smelling, hearing, or feeling. Living things can respond to the changes they sense.","Mount Rushmore National Memorial is not a living thing.
+The Mount Rushmore National Memorial is a sculpture of four American presidents: George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. The sculpture does not have all the traits of a living thing. It does not grow or respond to the world around it. It does not need food or water.
+A rainboot is not a living thing.
+Rainboots do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.
+A zebra is a living thing.
+Zebras grow and respond to their environment. They need food and water. Zebras are made up of many cells.
+A bathtub is not a living thing.
+Bathtubs do not have all of the traits of living things. They do not grow or respond to their environment. They do not need food or water.",B,1,B,B,Reasoning:Zebra is a living thing. The final answer: (B).,Zebra is a living thing.,B,1
+7847,,"What do these two changes have in common?
+making paper from wood
+silver jewelry tarnishing","['Both are caused by cooling.', 'Both are caused by heating.', 'Both are only physical changes.', 'Both are chemical changes.']",3,,closed choice,grade7,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Making paper from wood is a chemical change. Paper is made by mixing tiny pieces of wood with special chemicals. The wood reacts with the chemicals to form pulp. Wood and pulp are different types of matter.
+Metal turning less shiny over time is called tarnishing. Silver jewelry tarnishing is a chemical change. The silver reacts with sulfur in the air to form black tarnish. The tarnish is a different type of matter that was not there before the change.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),1,D,D,Reasoning:Making paper from wood and silver jewelry tarnishing are both chemical changes. The final answer: (D).,Making paper from wood and silver jewelry tarnishing are both chemical changes.,D,1
+8750,,How long is a garden snail?,"['38 kilometers', '38 millimeters', '38 meters', '38 centimeters']",1,Select the best estimate.,closed choice,grade6,natural science,units-and-measurement,Correct–Correct,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a garden snail is 38 millimeters.
+38 centimeters, 38 meters, and 38 kilometers are all too long.",(B),1,B,B,Reasoning:Snails are 38 millimeters long. The final answer: (B).,Snails are 38 millimeters long.,B,1
+11748,,"What do these two changes have in common?
+cooking an egg
+rust forming on a metal gate","['Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.']",0,,closed choice,grade8,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Cooking an egg is a chemical change. The heat causes the matter in the egg to change. Cooked egg and raw egg are different types of matter.
+Rust forming on a metal gate is a chemical change. As the gate rusts, the metal turns into a different type of matter called rust. Rust is reddish-brown and falls apart easily.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Cooking is caused by heating. But rust forming on a metal gate is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:Egg rust forms when the egg is cooked. The final answer: (A).,Egg rust forms when the egg is cooked.,A,1
+11290,,Select the reptile.,"['green sea turtle', 'salmon', 'green tree frog', 'anchovy']",0,,closed choice,grade5,natural science,biology,Correct–Correct,"Identify mammals, birds, fish, reptiles, and amphibians","Reptiles have scaly, waterproof skin. Most reptiles live on land.","A green sea turtle is a reptile. It has scaly, waterproof skin.
+Sea turtles live in the water, but they lay their eggs on land.
+A salmon is a fish. It lives underwater. It has fins, not limbs.
+Unlike most other fish, salmon can live in both fresh water and salt water.
+An anchovy is a fish. It lives underwater. It has fins, not limbs.
+An anchovy is a small fish that lives in the ocean. Like some other types of fish, anchovies swim in large groups called schools.
+A green tree frog is an amphibian. It has moist skin and begins its life in water.
+There are many kinds of tree frogs. Most tree frogs are very small. They can walk on thin branches.",A,1,A,A,Reasoning:Green sea turtle is a reptile. The final answer: (A).,Green sea turtle is a reptile.,A,1
+9075,,"What do these two changes have in common?
+saliva breaking down a piece of bread
+silver jewelry tarnishing","['Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by cooling.', 'Both are caused by heating.']",0,,closed choice,grade7,natural science,chemistry,Correct–Correct,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Saliva breaking down a piece of bread is a chemical change. Bread is made up mostly of a chemical called starch. Saliva breaks the bonds between atoms in the starch molecules.
+The atoms then link together to form smaller, simpler molecules of sugar. The sugar is a different type of matter than the starch.
+Metal turning less shiny over time is called tarnishing. Silver jewelry tarnishing is a chemical change. The silver reacts with sulfur in the air to form black tarnish. The tarnish is a different type of matter that was not there before the change.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are chemical changes. They are not physical changes.
+Both are chemical changes.
+Both changes are chemical changes. The type of matter before and after each change is different.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),1,A,A,Reasoning:Bacteria breaks down a piece of bread and silver jewelry is tarnishing. The final answer: (A).,Bacteria breaks down a piece of bread and silver jewelry is tarnishing.,A,1
+3560,,Select the animal.,"['Apple trees can grow fruit.', 'Vultures eat mammals and birds.', 'Dandelions can grow small yellow flowers.', 'Pine trees have green leaves.']",1,,closed choice,grade3,natural science,biology,Correct–Correct,Identify plants and animals,"Plants and animals are living things. Living things are called organisms.
+Plants come in many shapes and sizes. Most plants grow in the ground. They might grow leaves, flowers, and fruit. Plants cannot move around on their own like animals can.
+Animals also come in many shapes and sizes. Most animals can move around. Animals might run, swim, jump, or fly. Animals eat plants or other organisms for food.","An apple tree is a plant. It can grow fruit.
+People have been growing apples for thousands of years. There are more than 7,500 types of apples!
+A vulture is an animal. It eats mammals and birds.
+Vultures usually do not hunt live animals. They eat animals that are already dead! This behavior is called scavenging.
+A pine tree is a plant. It has green leaves.
+Pine tree seeds grow in cones. Trees that grow cones are called conifers.
+A dandelion is a plant. It can grow small yellow flowers.
+Dandelion seeds can be blown long distances by the wind.",B,1,B,B,Reasoning:Vultures eat mammals and birds. Dandelions grow small yellow flowers. Vultures eat mammals and birds. The final answer: (B).,Vultures eat mammals and birds. Dandelions grow small yellow flowers. Vultures eat mammals and birds.,B,1

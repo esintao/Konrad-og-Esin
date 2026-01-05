@@ -1,0 +1,1141 @@
+,image,question,choices,answer,hint,task,grade,subject,topic,category,skill,lecture,solution,baseline_result,correct/incorrect,predicted_letter,gold_letter,CoT_result,reasoning,predicted_letter_CoT,correct/incorrect_CoT
+1919,,Select the invertebrate.,"['lionfish', 'penguin', 'julia butterfly', 'grizzly bear']",2,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A lionfish is a fish. Like other fish, a lionfish is a vertebrate. It has a backbone.
+A penguin is a bird. Like other birds, a penguin is a vertebrate. It has a backbone.
+A grizzly bear is a mammal. Like other mammals, a grizzly bear is a vertebrate. It has a backbone.
+A julia butterfly is an insect. Like other insects, a julia butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.",lionfish,0,,C,"Reasoning:Invertebrates include lionfish, penguin, and grizzly bear. The final answer: (A).","Invertebrates include lionfish, penguin, and grizzly bear.",A,0
+1922,,"Which type of sentence is this?
+An avid reader, Logan attends weekly book club meetings, and he finishes several novels every month.","['compound', 'simple', 'compound-complex', 'complex']",0,,closed choice,grade10,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+An avid reader, Logan attends weekly book club meetings, and he finishes several novels every month.",Logan attends weekly book,0,,A,"Reasoning:A book club is a group of people who meet weekly to read books. Logan attends weekly book club meetings, and he finishes several novels every month. The final answer: (D).","A book club is a group of people who meet weekly to read books. Logan attends weekly book club meetings, and he finishes several novels every month.",D,0
+9907,,How long is a kitchen table?,"['8 yards', '8 miles', '8 inches', '8 feet']",3,Select the best estimate.,closed choice,grade6,natural science,units-and-measurement,Incorrect–Incorrect,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of a kitchen table is 8 feet.
+8 inches is too short. 8 yards and 8 miles are too long.",C,0,C,D,Reasoning:A kitchen table is 8 inches long. The final answer: (C).,A kitchen table is 8 inches long.,C,0
+9435,,"What do these two changes have in common?
+water evaporating from a lake
+cooking a pancake","['Both are caused by cooling.', 'Both are caused by heating.', 'Both are only physical changes.', 'Both are chemical changes.']",1,,closed choice,grade4,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Water evaporating from a lake is a change of state. So, it is a physical change. The liquid changes into a gas, but a different type of matter is not formed.
+Cooking a pancake is a chemical change. Pancakes are made from pancake batter. A cooked pancake is a different type of matter than pancake batter. Pancake batter is wet and slippery. Cooked pancakes are fluffy and can be good to eat!
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Water evaporating is a physical change. But cooking a pancake is not.
+Both are chemical changes.
+Cooking a pancake is a chemical change. But water evaporating from a lake is not.
+Both are caused by heating.
+Both changes are caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,B,Reasoning:Water evaporating from a lake causes cooling. Evaporation and cooling are both chemical changes. The final answer: (D).,Water evaporating from a lake causes cooling. Evaporation and cooling are both chemical changes.,D,0
+9376,,Select the solid.,"['air inside a soccer ball', 'vinegar', 'water in a sink', 'ruler']",3,,closed choice,grade3,natural science,physics,Incorrect–Incorrect,"Identify solids, liquids, and gases","Solid, liquid, and gas are states of matter. Matter is anything that takes up space. Matter can come in different states, or forms.
+When matter is a solid, it has a definite volume and a definite shape. So, a solid has a size and shape of its own.
+Some solids can be easily folded, bent, or broken. A piece of paper is a solid. Also, some solids are very small. A grain of sand is a solid.
+When matter is a liquid, it has a definite volume but not a definite shape. So, a liquid has a size of its own, but it does not have a shape of its own. Think about pouring juice from a bottle into a cup. The juice still takes up the same amount of space, but it takes the shape of the bottle.
+Some liquids do not pour as easily as others. Honey and milk are both liquids. But pouring honey takes more time than pouring milk.
+When matter is a gas, it does not have a definite volume or a definite shape. A gas expands, or gets bigger, until it completely fills a space. A gas can also get smaller if it is squeezed into a smaller space.
+Many gases are invisible. Air is a gas.","A ruler is a solid. A solid has a size and shape of its own. If you put a ruler in a box, the ruler will keep its shape.
+The air inside a soccer ball is a gas. A gas expands to fill a space. The air fills all the space inside the soccer ball. If air leaks out, it will expand into the space around the ball.
+Vinegar is a liquid. A liquid takes the shape of any container it is in. If you pour vinegar into a different container, the vinegar will take the shape of that container. But the vinegar will still take up the same amount of space.
+The water in a sink is a liquid. A liquid takes the shape of any container it is in. If you move the water from a sink into a different container, the water will take the shape of that container. But the water will still take up the same amount of space.",B,0,B,D,"Reasoning:Water in a sink is a solid. So, the final answer is (B).",,,0
+7968,,How long is a soccer field?,"['90 centimeters', '90 kilometers', '90 meters', '90 millimeters']",2,Select the best estimate.,closed choice,grade6,natural science,units-and-measurement,Incorrect–Incorrect,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a soccer field is 90 meters.
+90 millimeters and 90 centimeters are too short. 90 kilometers is too long.",90 centimeters,0,,C,Reasoning:A soccer field is 90 meters long. The final answer: (B).,A soccer field is 90 meters long.,B,0
+7468,,Select the solid.,"['milk', 'water in a fishbowl', 'rain puddle', 'beans']",3,,closed choice,grade3,natural science,physics,Incorrect–Incorrect,"Identify solids, liquids, and gases","Solid, liquid, and gas are states of matter. Matter is anything that takes up space. Matter can come in different states, or forms.
+When matter is a solid, it has a definite volume and a definite shape. So, a solid has a size and shape of its own.
+Some solids can be easily folded, bent, or broken. A piece of paper is a solid. Also, some solids are very small. A grain of sand is a solid.
+When matter is a liquid, it has a definite volume but not a definite shape. So, a liquid has a size of its own, but it does not have a shape of its own. Think about pouring juice from a bottle into a cup. The juice still takes up the same amount of space, but it takes the shape of the bottle.
+Some liquids do not pour as easily as others. Honey and milk are both liquids. But pouring honey takes more time than pouring milk.
+When matter is a gas, it does not have a definite volume or a definite shape. A gas expands, or gets bigger, until it completely fills a space. A gas can also get smaller if it is squeezed into a smaller space.
+Many gases are invisible. Air is a gas.","The water in a fishbowl is a liquid. A liquid takes the shape of any container it is in. If you pour water from a fishbowl into a different container, the water will take the shape of that container. But the water will still take up the same amount of space.
+Milk is a liquid. A liquid takes the shape of any container it is in. If you pour milk into a different container, the milk will take the shape of that container. But the milk will still take up the same amount of space.
+A rain puddle is a liquid. A liquid takes the shape of any container it is in. If you collect rainwater in a bucket, the rainwater will take the shape of the bucket. But the rainwater will still take up the same amount of space.
+A bean is a solid. A solid has a size and shape of its own. If you put many beans into a jar, the group of beans will take the shape of the jar, as a liquid would. But be careful! A bean is not a liquid. Each bean still has a size and shape of its own.",A,0,A,D,Reasoning:Milk is a solid. The final answer: (A).,Milk is a solid.,A,0
+10260,,Select the invertebrate.,"['green sea turtle', 'sparrow', 'koala', 'locust']",3,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A green sea turtle is a reptile. Like other reptiles, a green sea turtle is a vertebrate. It has a backbone.
+A sparrow is a bird. Like other birds, a sparrow is a vertebrate. It has a backbone.
+A locust is an insect. Like other insects, a locust is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A koala is a mammal. Like other mammals, a koala is a vertebrate. It has a backbone.",green sea turtle,0,,D,Reasoning:Green sea turtle is an invertebrate. The final answer: (A).,Green sea turtle is an invertebrate.,A,0
+10098,,Select the invertebrate.,"['rockfish', 'green frog', 'Canadian lynx', 'monarch butterfly']",3,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A monarch butterfly is an insect. Like other insects, a monarch butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A rockfish is a fish. Like other fish, a rockfish is a vertebrate. It has a backbone.
+A Canadian lynx is a mammal. Like other mammals, a Canadian lynx is a vertebrate. It has a backbone.
+A green frog is an amphibian. Like other amphibians, a green frog is a vertebrate. It has a backbone.",(A),0,A,D,Reasoning:Rockfishes are invertebrates. Rockfishes are a type of invertebrates. The final answer: (B).,Rockfishes are invertebrates. Rockfishes are a type of invertebrates.,B,0
+2766,,"Which type of sentence is this?
+Lester took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.","['compound', 'complex', 'simple', 'compound-complex']",2,,closed choice,grade9,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is simple. It is a single independent clause.
+Lester took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.",(A),0,A,C,Reasoning:Table Mountain is a mountain. Panoramic photographs can be taken in many ways. The final answer: (B).,Table Mountain is a mountain. Panoramic photographs can be taken in many ways.,B,0
+3298,,"What do these two changes have in common?
+tearing a piece of paper
+butter melting on a hot day","['Both are caused by heating.', 'Both are caused by cooling.', 'Both are only physical changes.', 'Both are chemical changes.']",2,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Tearing a piece of paper is a physical change. The paper tears into pieces. But each piece is still made of paper.
+Butter melting on a hot day is a change of state. So, it is a physical change. The butter changes from solid to liquid, but it is still made of the same type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Butter melting on a hot day is caused by heating. But tearing a piece of paper is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,C,Reasoning:Tending a piece of paper butter melts on a hot day. The final answer: (D).,Tending a piece of paper butter melts on a hot day.,D,0
+8531,,Select the invertebrate.,"['castor bean tick', 'zebra dove', 'Solomon leaf frog', 'harvest mouse']",0,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A zebra dove is a bird. Like other birds, a zebra dove is a vertebrate. It has a backbone.
+A harvest mouse is a mammal. Like other mammals, a harvest mouse is a vertebrate. It has a backbone.
+A Solomon leaf frog is an amphibian. Like other amphibians, a Solomon leaf frog is a vertebrate. It has a backbone.
+A castor bean tick is an insect. Like other insects, a castor bean tick is an invertebrate. It does not have a backbone. It has an exoskeleton.",C,0,C,A,Reasoning:Solomon leaf frog is an invertebrate. The final answer: (C).,Solomon leaf frog is an invertebrate.,C,0
+12218,,"What do these two changes have in common?
+water evaporating from a lake
+baking cookies","['Both are caused by cooling.', 'Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by heating.']",3,,closed choice,grade4,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Water evaporating from a lake is a change of state. So, it is a physical change. The liquid changes into a gas, but a different type of matter is not formed.
+Baking cookies is a chemical change. The type of matter in the cookie dough changes when it is baked. The cookie dough turns into cookies!
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Water evaporating is a physical change. But baking cookies is not.
+Both are chemical changes.
+Baking cookies is a chemical change. But water evaporating from a lake is not.
+Both are caused by heating.
+Both changes are caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,D,Reasoning:Water evaporating from a lake causes cooling. Evaporation and cooling are both chemical changes. The final answer: (B).,Water evaporating from a lake causes cooling. Evaporation and cooling are both chemical changes.,B,0
+4672,,Which of these things did the Thirteen Colonies have at the start of the Revolutionary War?,"['their own national bank', 'their own national navy', 'none of the above', 'their own national government']",2,,closed choice,grade4,social science,us-history,Incorrect–Incorrect,The American Revolution: preparing for war,,"At the start of the Revolutionary War, the colonies were still ruled by Great Britain. They were not a separate country. So, they did not have many of the things most countries have.
+No national government: The Thirteen Colonies had no way to write laws together. They also had no way to collect taxes to support a war.
+No national navy: The Thirteen Colonies did not have a navy. The colonists had never fought a war at sea.
+No national bank: Wars are expensive. A national bank can help a country raise money by borrowing from its people or other countries. Without a national bank, the Thirteen Colonies had no easy way to pay for a war.",D,0,D,C,Reasoning:The Thirteen Colonies had their own national navy at the start of the Revolutionary War. The final answer: (D).,The Thirteen Colonies had their own national navy at the start of the Revolutionary War.,D,0
+7566,,Is the student text plagiarized?,"['Yes, because it fails to use quotation marks.', 'No, it is not plagiarized.', 'Yes, because it fails to use quotation marks and fails to cite the source.', 'Yes, because it fails to cite the source.']",2,"Compare the student text with the source.
+Source: Paul Krugman, ""The Big Meh."" Published in The New York Times 25 May 2015.
+At this point, the whole digital era, spanning more than four decades, is looking like a disappointment. New technologies have yielded great headlines, but modest economic results.
+Student text:
+It has been said that the new technologies of the digital era have yielded great headlines, but modest economic results.",closed choice,grade11,language science,writing-strategies,Incorrect–Incorrect,Identify plagiarism,"Plagiarism is the act of taking another person's work or ideas and presenting them as your own, either accidentally or on purpose. When you use an outside source in your own writing, you should make sure to cite the source in order to avoid plagiarism. Consider the following source:
+Fisher, Goddu, and Keil, ""Searching for Explanations: How the Internet Inflates Estimates of Internal Knowledge."" Copyright 2015 by the American Psychological Association
+The results of these experiments suggest that searching the Internet may cause a systematic failure to recognize the extent to which we rely on outsourced knowledge. Searching for explanations on the Internet inflates self-assessed knowledge in unrelated domains.
+If you use a direct quotation in your writing, you must use quotation marks around the exact words that were copied from the source, in addition to citing the source.
+Researchers have found that relying on the Internet for information may cause a systematic failure to recognize the extent to which we rely on outsourced knowledge.
+This sentence is plagiarized because it uses the source's exact words without quotation marks and without properly citing the source.
+Researchers have found that relying on the Internet for information ""may cause a systematic failure to recognize the extent to which we rely on outsourced knowledge"" (Fisher, Goddu, and Keil).
+If you paraphrase a source, or put a source's ideas into your own words, you must still cite the source. Even if properly cited, a paraphrase that is too similar to the source in wording or sentence structure is still considered plagiarized.
+According to Fisher, Goddu, and Keil, searching the Internet can lead to a regular failure to perceive the extent to which we rely on outside knowledge.
+This sentence is plagiarized because it is an insufficient paraphrase. Even though it is properly cited, it borrows too much of the source's wording and sentence structure.
+According to Fisher, Goddu, and Keil, relying on the Internet to look up information can make it difficult for us to estimate how much of our knowledge comes from internal versus external sources.
+There are different rules about how to format citations, such as when to include page numbers for print sources. Check a style guide, such as the Modern Language Association (MLA) Handbook, for a complete list of these rules.","The student text is plagiarized. It uses the source's exact words without quotation marks, and it also fails to cite the source.
+It has been said that the new technologies of the digital era have yielded great headlines, but modest economic results.
+Source: Paul Krugman, ""The Big Meh."" Published in The New York Times 25 May 2015.
+At this point, the whole digital era, spanning more than four decades, is looking like a disappointment. New technologies have yielded great headlines, but modest economic results.",(B),0,B,C,"Reasoning:The student text is not plagiarized. Therefore, the final answer is (B).",,,0
+358,,Select the vertebrate.,"['green iguana', 'julia butterfly', 'black orb weaver spider', 'bull ant']",0,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A bull ant is an insect. Like other insects, a bull ant is an invertebrate. It does not have a backbone. It has an exoskeleton.
+Like other spiders, a black orb weaver spider is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A julia butterfly is an insect. Like other insects, a julia butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A green iguana is a reptile. Like other reptiles, a green iguana is a vertebrate. It has a backbone.",(C),0,C,A,Reasoning:Vertebrates are a group of vertebrates. The final answer: (C).,Vertebrates are a group of vertebrates.,C,0
+8087,,"Which type of sentence is this?
+Tyler always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.","['simple', 'complex', 'compound-complex', 'compound']",3,,closed choice,grade8,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+Tyler always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",(B),0,B,D,"Reasoning:Tyler always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor. The final answer: (B).","Tyler always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",B,0
+7191,,Select the action that doesn't belong.,"['chop', 'carve', 'slice', 'measure']",3,,closed choice,grade3,language science,vocabulary,Incorrect–Incorrect,Select the words that don't belong,,"Measure doesn't belong.
+Carve, chop, and slice all name ways to cut something.",B,0,B,D,Reasoning:Measurement is the act of measuring. Measurement does not belong to the action that doesn't belong. The final answer: (B).,Measurement is the act of measuring. Measurement does not belong to the action that doesn't belong.,B,0
+5525,,"What do these two changes have in common?
+filtering air to remove dust and pollen
+a crayon melting in the sun","['Both are only physical changes.', 'Both are caused by heating.', 'Both are chemical changes.', 'Both are caused by cooling.']",0,,closed choice,grade8,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Filtering air to remove dust and pollen is a physical change. The air flows through the filter, and the pollen and dust stay behind. This separates the mixture of air, pollen, and dust. But separating a mixture does not form a different type of matter.
+A crayon melting in the sun is a change of state. So, it is a physical change. The crayon changes state from solid to liquid. The crayon is still made of wax, even after it melts.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+A crayon melting in the sun is caused by heating. But filtering air is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),0,C,A,Reasoning:A crayon melting in the sun is called a chemical change. The final answer: (C).,A crayon melting in the sun is called a chemical change.,C,0
+3479,,"What do these two changes have in common?
+molding clay into the shape of a pot
+breaking a stick in half","['Both are caused by heating.', 'Both are chemical changes.', 'Both are caused by cooling.', 'Both are only physical changes.']",3,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Molding clay into the shape of a pot is a physical change. The clay gets a different shape. But it is made of the same type of matter.
+Breaking a stick in half is a physical change. The stick gets broken into two pieces. But the pieces are still made of the same type of matter as the original stick.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,D,Reasoning:Molding clay into the shape of a pot breaks a stick in half. The final answer: (B).,Molding clay into the shape of a pot breaks a stick in half.,B,0
+1066,,Select the action that doesn't belong.,"['edit', 'rewrite', 'multiply', 'write']",2,,closed choice,grade3,language science,vocabulary,Incorrect–Incorrect,Select the words that don't belong,,"Multiply doesn't belong.
+Rewrite, edit, and write all name things you do while writing.",B,0,B,C,"Reasoning:Action that doesn't belong can be rewritten. Therefore, the final answer is (A).",,,0
+11136,,"What do these two changes have in common?
+water evaporating from a lake
+mixing sand and gravel","['Both are caused by cooling.', 'Both are chemical changes.', 'Both are caused by heating.', 'Both are only physical changes.']",3,,closed choice,grade4,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Water evaporating from a lake is a change of state. So, it is a physical change. The liquid changes into a gas, but a different type of matter is not formed.
+Mixing sand and gravel is a physical change. Together, the sand and gravel make a mixture. But making this mixture does not form a different type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Water evaporating is caused by heating. But mixing sand and gravel is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(B),0,B,D,Reasoning:Water evaporating from a lake mixes sand and gravel. The final answer: (B).,Water evaporating from a lake mixes sand and gravel.,B,0
+9450,,Select the vertebrate.,"['saturn butterfly', 'metallic tarantula', 'sunfish', 'weaver ant']",2,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A saturn butterfly is an insect. Like other insects, a saturn butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A weaver ant is an insect. Like other insects, a weaver ant is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A sunfish is a fish. Like other fish, a sunfish is a vertebrate. It has a backbone.
+Like other tarantulas, a metallic tarantula is an invertebrate. It does not have a backbone. It has an exoskeleton.",(A),0,A,C,Reasoning:Vertebrates are the only vertebrates. Sunfish is a sunfish. The final answer: (A).,Vertebrates are the only vertebrates. Sunfish is a sunfish.,A,0
+12617,,"Which type of sentence is this?
+An avid reader, Jared attends weekly book club meetings, and he finishes several novels every month.","['simple', 'compound-complex', 'complex', 'compound']",3,,closed choice,grade11,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+An avid reader, Jared attends weekly book club meetings, and he finishes several novels every month.",Jared is an avid,0,,D,Reasoning:Jared is an avid reader and attends weekly book club meetings. He finishes several novels every month. The final answer: (C).,Jared is an avid reader and attends weekly book club meetings. He finishes several novels every month.,C,0
+6016,,"What do these two changes have in common?
+burning food on a stove
+an iceberg melting slowly","['Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.']",2,,closed choice,grade4,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Burning food on a stove is a chemical change. When the food burns, the type of matter in it changes. The food turns black and gives off smoke.
+An iceberg melting is a change of state. So, it is a physical change. An iceberg is made of frozen water. As it melts, the water changes from a solid to a liquid. But a different type of matter is not formed.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+An iceberg melting is a physical change. But burning food on a stove is not.
+Both are chemical changes.
+Burning food on a stove is a chemical change. But an iceberg melting is not.
+Both are caused by heating.
+Both changes are caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,C,Reasoning:Burning food on a stove causes an iceberg to melt slowly. The final answer: (A).,Burning food on a stove causes an iceberg to melt slowly.,A,0
+12344,,"What do these two changes have in common?
+filtering air to remove dust and pollen
+pouring milk on oatmeal","['Both are caused by heating.', 'Both are caused by cooling.', 'Both are only physical changes.', 'Both are chemical changes.']",2,,closed choice,grade7,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Filtering air to remove dust and pollen is a physical change. The air flows through the filter, and the pollen and dust stay behind. This separates the mixture of air, pollen, and dust. But separating a mixture does not form a different type of matter.
+Pouring milk on oatmeal is a physical change. The oatmeal and milk form a creamy mixture. But making this mixture does not form a different type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,C,Reasoning:Filtering air to remove dust and pollen is the same as pouring milk on oatmeal. The final answer: (D).,Filtering air to remove dust and pollen is the same as pouring milk on oatmeal.,D,0
+4117,,Select the vertebrate.,"['comet moth', 'orb weaver', 'carp', 'earthworm']",2,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade4,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","Like other spiders, an orb weaver is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A carp is a fish. Like other fish, a carp is a vertebrate. It has a backbone.
+An earthworm is a worm. Like other worms, an earthworm is an invertebrate. It does not have a backbone. It has a soft body.
+A comet moth is an insect. Like other insects, a comet moth is an invertebrate. It does not have a backbone. It has an exoskeleton.",(D),0,D,C,Reasoning:Vertebrates are a group of living organisms. Orb weaver is a vertebrate. The final answer: (B).,Vertebrates are a group of living organisms. Orb weaver is a vertebrate.,B,0
+11146,,"What do these two changes have in common?
+pouring milk on oatmeal
+cracking open a peanut","['Both are only physical changes.', 'Both are caused by cooling.', 'Both are caused by heating.', 'Both are chemical changes.']",0,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Pouring milk on oatmeal is a physical change. The oatmeal and milk form a creamy mixture. But making this mixture does not form a different type of matter.
+Cracking open a peanut is a physical change. The peanut shell breaks and the peanut falls out. Both are still made of the same type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,A,Reasoning:Pouring milk on oatmeal and cracking open a peanut are both chemical changes. The final answer: (D).,Pouring milk on oatmeal and cracking open a peanut are both chemical changes.,D,0
+9391,,Select the action that doesn't belong.,"['cut', 'shampoo', 'style', 'boil']",3,,closed choice,grade5,language science,vocabulary,Incorrect–Incorrect,Select the words that don't belong,,"Boil doesn't belong.
+Shampoo, cut, and style all describe things you do to hair.",B,0,B,D,Reasoning:The action that doesn't belong is cut. The action that doesn't belong is style. The final answer: (B).,The action that doesn't belong is cut. The action that doesn't belong is style.,B,0
+7275,,How long is a rowboat?,"['3 centimeters', '3 kilometers', '3 meters', '3 millimeters']",2,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Incorrect–Incorrect,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a rowboat is 3 meters.
+3 millimeters and 3 centimeters are too short. 3 kilometers is too long.",(D),0,D,C,Reasoning:The length of a rowboat is 3 millimeters. The final answer: (A).,The length of a rowboat is 3 millimeters.,A,0
+11593,,Select the part whose main job is to break down sugar to release energy that a plant cell can use.,"['endoplasmic reticulum', 'chloroplasts', 'mitochondria', 'vacuole']",2,,closed choice,grade7,natural science,biology,Incorrect–Incorrect,Identify functions of plant cell parts,"Plant cells are made up of many different parts. Each cell part has a function that helps the cell survive and grow.
+Some cell parts are called organelles. Organelles are cell structures that are surrounded by their own membranes. Here are some of the organelles in plant cells:
+Chloroplasts and mitochondria work together to help the cell get the energy it needs. The chloroplasts use photosynthesis to make sugar. The mitochondria break down this sugar and release energy that the cell can use for all of its activities.
+The nucleus directs cell activities by sending instructions to different parts of the cell. The nucleus contains structures called chromosomes. The chromosomes are made mostly of hereditary material called DNA. DNA contains information that the cell uses for growth and activities. These instructions tell ribosomes how to build molecules called proteins, which make up cell structures and help chemical reactions happen in the cell.
+The endoplasmic reticulum is an organelle that helps ribosomes build proteins. The nucleus sends instructions for making proteins to ribosomes. Ribosomes can attach to the endoplamic reticulum. The endoplasmic reticulum and ribosomes use these instructions to make proteins that the cell needs to survive and grow.
+After proteins are made in the endoplasmic reticulum, they can be transferred to the Golgi. The Golgi is an organelle made up of flat, stacked membranes. The Golgi sorts and packages proteins and other substances. Then, the Golgi sends these substances to different parts of the cell. Some of these substances are sent to the cell membrane and released from the cell.
+In plant cells, the vacuole stores waste, water, and nutrients such as sugar. Most plant cells have one vacuole.
+Other cell parts are not surrounded by their own membranes. These cell parts are not organelles.
+The cell wall is the cell's tough outer covering. It gives the cell strength and stiffness and helps the cell keep its shape.
+On the inside of the cell wall is a thin layer called the cell membrane. This layer is a membrane, but it does not have a membrane surrounding it, so it is not an organelle. The cell membrane controls which substances enter and leave the cell.
+The cytoplasm is a thick liquid that fills the space inside the cell. The cytoplasm also helps the cell keep its shape and supports the other cell parts.",Mitochondria break down sugar to release energy that the cell can use. Plant and animal cells usually have many mitochondria.,endoplasmic ,0,,C,Reasoning:Endoplasmic reticulum breaks down sugar to release energy that a plant cell can use. The final answer: (A).,Endoplasmic reticulum breaks down sugar to release energy that a plant cell can use.,A,0
+8202,,"What do these two changes have in common?
+water evaporating from a puddle
+burning a piece of wood","['Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.']",2,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Water evaporating from a puddle is a change of state. So, it is a physical change. The liquid changes into a gas, but a different type of matter is not formed.
+Burning a piece of wood is a chemical change. When the wood burns, the type of matter in it changes. The wood turns black and gives off smoke.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Water evaporating is a physical change. But burning wood does not.
+Both are chemical changes.
+Burning a piece of wood is a chemical change. But water evaporating from a puddle is not.
+Both are caused by heating.
+Both changes are caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,C,Reasoning:Water evaporating from a puddle burning a piece of wood can be both chemical and physical. The final answer: (A).,Water evaporating from a puddle burning a piece of wood can be both chemical and physical.,A,0
+12215,,Which word is not like the others?,"['under', 'behind', 'over', 'thing']",3,,closed choice,grade1,language science,vocabulary,Incorrect–Incorrect,Which word is not like the others?,"Some words are alike. They go together in a group.
+Red, blue, and green go together. They are colors.
+Mom, dad, grandma, and grandpa go together. They are people in a family.","Behind, under, and over go together. They are words that tell where. Thing is not a word that tells where, so it is not like the other words.",B,0,B,D,"Reasoning:The word behind is not like the others. Thus, the final answer is (B).",,,0
+9211,,"What do these two changes have in common?
+knitting yarn into a scarf
+dew appearing on grass in the morning","['Both are only physical changes.', 'Both are caused by cooling.', 'Both are chemical changes.', 'Both are caused by heating.']",0,,closed choice,grade8,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Knitting yarn into a scarf is a physical change. The yarn gets a different shape, but it is still made of the same type of matter.
+Dew appearing on grass in the morning is a change of state. So, it is a physical change. Water vapor in the air touches the cool grass and becomes liquid.
+The water vapor changes state to become dew, but it is still made of water. A different type of matter is not formed.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Dew appears when water vapor in the air condenses into a liquid on the grass. This is caused by cooling. But knitting yarn is not.",(D),0,D,A,Reasoning:A chemical change occurs when a substance is heated. The temperature of the substance increases with the temperature of the water. The temperature of the substance decreases with the temperature of the water. The final answer: (C).,A chemical change occurs when a substance is heated. The temperature of the substance increases with the temperature of the water. The temperature of the substance decreases with the temperature of the water.,C,0
+8935,,How long is an adult great white shark?,"['5 inches', '5 miles', '5 yards', '5 feet']",2,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Incorrect–Incorrect,"Choose customary units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using customary units, length may be written with units of inches, feet, yards, or miles.
+There are 12 inches in 1 foot, and 3 feet in 1 yard. There are 5,280 feet in 1 mile.
+A football is about 1 foot long. A football field is 100 yards long.","The best estimate for the length of an adult great white shark is 5 yards.
+5 inches and 5 feet are too short. 5 miles is too long.",D,0,D,C,Reasoning:Adult great white shark has a length of 5 inches. The final answer: (A).,Adult great white shark has a length of 5 inches.,A,0
+10851,,Select the solid.,"['caramel sauce', 'coffee', 'air from a hair dryer', 'ring']",3,,closed choice,grade3,natural science,physics,Incorrect–Incorrect,"Identify solids, liquids, and gases","Solid, liquid, and gas are states of matter. Matter is anything that takes up space. Matter can come in different states, or forms.
+When matter is a solid, it has a definite volume and a definite shape. So, a solid has a size and shape of its own.
+Some solids can be easily folded, bent, or broken. A piece of paper is a solid. Also, some solids are very small. A grain of sand is a solid.
+When matter is a liquid, it has a definite volume but not a definite shape. So, a liquid has a size of its own, but it does not have a shape of its own. Think about pouring juice from a bottle into a cup. The juice still takes up the same amount of space, but it takes the shape of the bottle.
+Some liquids do not pour as easily as others. Honey and milk are both liquids. But pouring honey takes more time than pouring milk.
+When matter is a gas, it does not have a definite volume or a definite shape. A gas expands, or gets bigger, until it completely fills a space. A gas can also get smaller if it is squeezed into a smaller space.
+Many gases are invisible. Air is a gas.","Caramel sauce is a liquid. A liquid takes the shape of any container it is in. If you pour caramel sauce into a container, the caramel sauce will take the shape of that container. But the caramel sauce will still take up the same amount of space.
+Coffee is a liquid. A liquid takes the shape of any container it is in. If you pour coffee into a different container, the coffee will take the shape of that container. But the coffee will still take up the same amount of space.
+A ring is a solid. A solid has a size and shape of its own. A ring keeps its shape, even when you take it off your finger.
+The air from a hair dryer is a gas. A gas expands to fill a space. A hair dryer uses a fan to blow warm air out. When the air leaves the hair dryer, the air expands to fill a much large space.",A,0,A,D,Reasoning:Caramel sauce is a solid. The final answer: (A).,Caramel sauce is a solid.,A,0
+5570,,When is Thanksgiving celebrated in the United States?,"['on January 12', 'on the second Sunday of September', 'on the fourth Thursday of November', 'on December 5']",2,,closed choice,grade2,social science,civics,Incorrect–Incorrect,Thanksgiving,,"This is a symbol of the harvest. It shows fruits and vegetables that are picked in the fall.
+In the United States, Thanksgiving is celebrated on the fourth Thursday of November.
+In the past, Thanksgiving celebrated the harvest. It celebrated the food that was picked in the fall. So, Thanksgiving is celebrated in the fall, too.",(B),0,B,C,Reasoning:Thanksgiving is celebrated on the second Sunday of September. The final answer: (B).,Thanksgiving is celebrated on the second Sunday of September.,B,0
+1412,,"Which type of sentence is this?
+Joe took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.","['compound-complex', 'compound', 'simple', 'complex']",2,,closed choice,grade7,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is simple. It is a single independent clause.
+Joe took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.",(D),0,D,C,Reasoning:Table Mountain is a mountain. Panoramic photographs can be taken in many ways. The final answer: (D).,Table Mountain is a mountain. Panoramic photographs can be taken in many ways.,D,0
+10664,,Select the mammal.,"['California toad', 'gray crowned crane', 'giraffe', 'western rattlesnake']",2,,closed choice,grade5,natural science,biology,Incorrect–Incorrect,"Identify mammals, birds, fish, reptiles, and amphibians",Mammals have hair or fur and feed their young milk.,"A gray crowned crane is a bird. It has feathers, two wings, and a beak.
+Cranes wade in shallow water to look for food. Cranes eat insects, worms, and plants.
+A California toad is an amphibian. It has moist skin and begins its life in water.
+Toads do not have teeth! They swallow their food whole.
+A giraffe is a mammal. It has hair and feeds its young milk.
+Giraffes eat mostly leaves that are too high up for other animals to reach.
+A western rattlesnake is a reptile. It has scaly, waterproof skin.
+Rattlesnakes have fangs they can use to inject venom into their prey.",California toad,0,,C,Reasoning:California toad is a mammal. The final answer: (A).,California toad is a mammal.,A,0
+7649,,Select the vertebrate.,"['bess beetle', 'Caribbean reef octopus', 'tiger', 'metallic tarantula']",2,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A tiger is a mammal. Like other mammals, a tiger is a vertebrate. It has a backbone.
+A bess beetle is an insect. Like other insects, a bess beetle is an invertebrate. It does not have a backbone. It has an exoskeleton.
+Like other octopuses, a Caribbean reef octopus is an invertebrate. It does not have a backbone. It has a soft body.
+Like other tarantulas, a metallic tarantula is an invertebrate. It does not have a backbone. It has an exoskeleton.",bess bee,0,,C,Reasoning:Vertebrates are a group of vertebrates. The final answer: (B).,Vertebrates are a group of vertebrates.,B,0
+8167,,Is the student text plagiarized?,"['Yes, because it fails to use quotation marks.', 'No, it is not plagiarized.', 'Yes, because it fails to cite the source.', 'Yes, because it fails to use quotation marks and fails to cite the source.']",2,"Compare the student text with the source.
+Source: Bob Brooke, ""Oregon Trail: Wagon Tracks West."" Published in Wild West Apr. 2000.
+Between 1841 and 1866 about 350,000 people used what had become the most famous wagon route across America. It is no wonder that, in places, ruts along the Oregon Trail are still visible today.
+Student text:
+Ruts from wagon wheels are still visible in the Oregon Trail today, which is not surprising given that ""between 1841 and 1866 about 350,000 people used what had become the most famous wagon route across America.""",closed choice,grade11,language science,writing-strategies,Incorrect–Incorrect,Identify plagiarism,"Plagiarism is the act of taking another person's work or ideas and presenting them as your own, either accidentally or on purpose. When you use an outside source in your own writing, you should make sure to cite the source in order to avoid plagiarism. Consider the following source:
+Fisher, Goddu, and Keil, ""Searching for Explanations: How the Internet Inflates Estimates of Internal Knowledge."" Copyright 2015 by the American Psychological Association
+The results of these experiments suggest that searching the Internet may cause a systematic failure to recognize the extent to which we rely on outsourced knowledge. Searching for explanations on the Internet inflates self-assessed knowledge in unrelated domains.
+If you use a direct quotation in your writing, you must use quotation marks around the exact words that were copied from the source, in addition to citing the source.
+Researchers have found that relying on the Internet for information may cause a systematic failure to recognize the extent to which we rely on outsourced knowledge.
+This sentence is plagiarized because it uses the source's exact words without quotation marks and without properly citing the source.
+Researchers have found that relying on the Internet for information ""may cause a systematic failure to recognize the extent to which we rely on outsourced knowledge"" (Fisher, Goddu, and Keil).
+If you paraphrase a source, or put a source's ideas into your own words, you must still cite the source. Even if properly cited, a paraphrase that is too similar to the source in wording or sentence structure is still considered plagiarized.
+According to Fisher, Goddu, and Keil, searching the Internet can lead to a regular failure to perceive the extent to which we rely on outside knowledge.
+This sentence is plagiarized because it is an insufficient paraphrase. Even though it is properly cited, it borrows too much of the source's wording and sentence structure.
+According to Fisher, Goddu, and Keil, relying on the Internet to look up information can make it difficult for us to estimate how much of our knowledge comes from internal versus external sources.
+There are different rules about how to format citations, such as when to include page numbers for print sources. Check a style guide, such as the Modern Language Association (MLA) Handbook, for a complete list of these rules.","The student text is plagiarized. Although it uses quotation marks around the source's exact words, it fails to cite the source.
+Ruts from wagon wheels are still visible in the Oregon Trail today, which is not surprising given that ""between 1841 and 1866 about 350,000 people used what had become the most famous wagon route across America.""
+Source: Bob Brooke, ""Oregon Trail: Wagon Tracks West."" Published in Wild West Apr. 2000.
+Between 1841 and 1866 about 350,000 people used what had become the most famous wagon route across America. It is no wonder that, in places, ruts along the Oregon Trail are still visible today.",(B),0,B,C,"Reasoning:The student text fails to use quotation marks and fails to cite the source. Therefore, the final answer is (B).",,,0
+3797,,"What do these two changes have in common?
+mixing lettuce and salad dressing
+sewing an apron","['Both are caused by cooling.', 'Both are chemical changes.', 'Both are caused by heating.', 'Both are only physical changes.']",3,,closed choice,grade8,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Mixing lettuce and salad dressing is a physical change. Together, the salad and dressing make a mixture. But making this mixture does not form a different type of matter.
+Sewing an apron is a physical change. The fabric and thread that make up the apron get a new shape, but the type of matter in each of them does not change.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(B),0,B,D,Reasoning:Mixing lettuce and dressing is a chemical change. Sewing an apron is a physical change. The final answer: (B).,Mixing lettuce and dressing is a chemical change. Sewing an apron is a physical change.,B,0
+7682,,"Which type of sentence is this?
+Danny took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.","['simple', 'compound', 'compound-complex', 'complex']",0,,closed choice,grade11,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is simple. It is a single independent clause.
+Danny took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.",(D),0,D,A,Reasoning:Panoramic photography is a type of photograph. The final answer: (D).,Panoramic photography is a type of photograph.,D,0
+5414,,"What do these two changes have in common?
+pouring milk on oatmeal
+sewing an apron","['Both are caused by cooling.', 'Both are caused by heating.', 'Both are only physical changes.', 'Both are chemical changes.']",2,,closed choice,grade4,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Pouring milk on oatmeal is a physical change. The oatmeal and milk form a creamy mixture. But making this mixture does not form a different type of matter.
+Sewing an apron is a physical change. The fabric and thread that make up the apron get a new shape, but the type of matter in each of them does not change.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,C,Reasoning:Pouring milk on oatmeal and sewing an apron are both chemical changes. The final answer: (D).,Pouring milk on oatmeal and sewing an apron are both chemical changes.,D,0
+7023,,"Which type of sentence is this?
+An avid reader, Zack attends weekly book club meetings, and he finishes several novels every month.","['simple', 'complex', 'compound', 'compound-complex']",2,,closed choice,grade10,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+An avid reader, Zack attends weekly book club meetings, and he finishes several novels every month.",Zack is an avid,0,,C,"Reasoning:A book club is a group of people who meet weekly to read books. Zack attends weekly book club meetings, and he finishes several novels every month. The final answer: (B).","A book club is a group of people who meet weekly to read books. Zack attends weekly book club meetings, and he finishes several novels every month.",B,0
+11543,,Select the vertebrate.,"['bull ant', 'pipevine swallowtail butterfly', 'puffin', 'rock lobster']",2,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A bull ant is an insect. Like other insects, a bull ant is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A rock lobster is a crustacean. Like other crustaceans, a rock lobster is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A puffin is a bird. Like other birds, a puffin is a vertebrate. It has a backbone.
+A pipevine swallowtail butterfly is an insect. Like other insects, a pipevine swallowtail butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.",(B),0,B,C,Reasoning:Vertebrates are a group of vertebrates. The final answer: (B).,Vertebrates are a group of vertebrates.,B,0
+4778,,Select the invertebrate.,"['piranha', 'West African rubber frog', 'tiger', 'peacock butterfly']",3,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A tiger is a mammal. Like other mammals, a tiger is a vertebrate. It has a backbone.
+A piranha is a fish. Like other fish, a piranha is a vertebrate. It has a backbone.
+A peacock butterfly is an insect. Like other insects, a peacock butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A West African rubber frog is an amphibian. Like other amphibians, a West African rubber frog is a vertebrate. It has a backbone.",piranha,0,,D,Reasoning:West African rubber frog is an invertebrate. The final answer: (B).,West African rubber frog is an invertebrate.,B,0
+7460,,Select the reptile.,"['hippopotamus', 'emerald tree boa', 'gray wolf', 'elephant seal']",1,,closed choice,grade5,natural science,biology,Incorrect–Incorrect,"Identify mammals, birds, fish, reptiles, and amphibians","Reptiles have scaly, waterproof skin. Most reptiles live on land.","An emerald tree boa is a reptile. It has scaly, waterproof skin.
+Tree boas eat small mammals, birds, lizards, and frogs. Tree boas only need to eat once every few months!
+A gray wolf is a mammal. It has fur and feeds its young milk.
+Wolves often live in family groups. A wolf mother, father, and their children travel together.
+An elephant seal is a mammal. It has hair and feeds its young milk.
+Seals have flippers instead of arms! They use their flippers to swim underwater or to crawl on the beach.
+A hippopotamus is a mammal. It has hair and feeds its young milk.
+Hippopotamuses keep cool by lying in mud or water.",hippopota,0,,B,Reasoning:Hippopotamus is a reptile. The final answer: (A).,Hippopotamus is a reptile.,A,0
+7364,,"What do these two changes have in common?
+mixing sand and water
+picking up a paper clip with a magnet","['Both are caused by cooling.', 'Both are caused by heating.', 'Both are chemical changes.', 'Both are only physical changes.']",3,,closed choice,grade7,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Mixing sand and water is a physical change. Adding water makes the sand wet. But both the sand and water are still made of the same type of matter as before.
+Picking up a paper clip with a magnet is a physical change. The paper clip sticks to the magnet, but it is still made of the same type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),0,C,D,Reasoning:Mixing sand and water is the same as picking up a paper clip with a magnet. The final answer: (C).,Mixing sand and water is the same as picking up a paper clip with a magnet.,C,0
+10948,,"What do these two changes have in common?
+an iceberg melting slowly
+breaking a plate","['Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.']",1,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+An iceberg melting is a change of state. So, it is a physical change. An iceberg is made of frozen water. As it melts, the water changes from a solid to a liquid. But a different type of matter is not formed.
+Breaking a plate is a physical change. The plate gets broken into pieces. But each piece is still made of the same type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+An iceberg melting is caused by heating. But breaking a plate is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,B,Reasoning:Iceberg melting slowly breaks a plate. The final answer: (D).,Iceberg melting slowly breaks a plate.,D,0
+1474,,"What do these two changes have in common?
+sewing an apron
+mixing sand and water","['Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.']",1,,closed choice,grade7,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Sewing an apron is a physical change. The fabric and thread that make up the apron get a new shape, but the type of matter in each of them does not change.
+Mixing sand and water is a physical change. Adding water makes the sand wet. But both the sand and water are still made of the same type of matter as before.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,B,Reasoning:Sewing an apron and mixing sand and water are two chemical changes. Sewing an apron and mixing sand and water are two physical changes. The final answer: (A).,Sewing an apron and mixing sand and water are two chemical changes. Sewing an apron and mixing sand and water are two physical changes.,A,0
+5718,,"Which type of sentence is this?
+An avid reader, Pete attends weekly book club meetings, and he finishes several novels every month.","['compound-complex', 'simple', 'compound', 'complex']",2,,closed choice,grade7,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+An avid reader, Pete attends weekly book club meetings, and he finishes several novels every month.",Pete is an avid reader,0,,C,"Reasoning:A book club is a group of people who meet weekly to read books. Pete attends weekly book club meetings, and he finishes several novels every month. The final answer: (D).","A book club is a group of people who meet weekly to read books. Pete attends weekly book club meetings, and he finishes several novels every month.",D,0
+9593,,"Which type of sentence is this?
+Gavin always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.","['complex', 'compound-complex', 'compound', 'simple']",2,,closed choice,grade9,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+Gavin always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",Gavin always approaches difficult,0,,C,"Reasoning:Gavin always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor. The final answer: (D).","Gavin always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",D,0
+9705,,"Which type of sentence is this?
+Toby took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.","['simple', 'compound', 'complex', 'compound-complex']",0,,closed choice,grade12,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is simple. It is a single independent clause.
+Toby took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.",Toby took several incredible,0,,A,Reasoning:Toby took several incredible panoramic photographs of the sweeping view from the top of Table Mountain. The final answer: (C).,Toby took several incredible panoramic photographs of the sweeping view from the top of Table Mountain.,C,0
+10863,,"Which type of sentence is this?
+Bryan always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.","['complex', 'compound', 'compound-complex', 'simple']",1,,closed choice,grade7,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+Bryan always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",Bryan always approaches difficult tasks,0,,B,"Reasoning:Bryan always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor. The final answer: (D).","Bryan always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",D,0
+10688,,When was George Washington Carver born?,"['the 1920s', 'the 1810s', 'the 1860s', 'the 1770s']",2,,closed choice,grade3,social science,us-history,Incorrect–Incorrect,George Washington Carver,,"George Washington Carver was born sometime between 1861 and 1865, during the Civil War. Historians do not know his exact birth date.
+George Washington Carver was born on a farm in Missouri. He was born into slavery, but he became free at a young age. Slavery was banned in the United States a few months after the Civil War.",(D),0,D,C,Reasoning:George Washington Carver was born in the 1860s. The final answer: (B).,George Washington Carver was born in the 1860s.,B,0
+4954,,"What do these two changes have in common?
+carving a piece of wood
+picking up a paper clip with a magnet","['Both are chemical changes.', 'Both are caused by heating.', 'Both are only physical changes.', 'Both are caused by cooling.']",2,,closed choice,grade8,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Carving a piece of wood is a physical change. The wood changes shape, but it is still made of the same type of matter.
+Picking up a paper clip with a magnet is a physical change. The paper clip sticks to the magnet, but it is still made of the same type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,C,Reasoning:Carving a piece of wood and picking up a paper clip with a magnet are both physical changes. The final answer: (B).,Carving a piece of wood and picking up a paper clip with a magnet are both physical changes.,B,0
+11367,,Select the reptile.,"['humpback whale', 'gray tree frog', 'green iguana', 'California toad']",2,,closed choice,grade5,natural science,biology,Incorrect–Incorrect,"Identify mammals, birds, fish, reptiles, and amphibians","Reptiles have scaly, waterproof skin. Most reptiles live on land.","A gray tree frog is an amphibian. It has moist skin and begins its life in water.
+There are many kinds of tree frogs. Most tree frogs are very small. They can walk on thin branches.
+A California toad is an amphibian. It has moist skin and begins its life in water.
+Toads do not have teeth! They swallow their food whole.
+A humpback whale is a mammal. It has hair and feeds its young milk.
+Whales are mammals that live in the ocean. Humpback whales have small hairs that grow from bumps around their mouth.
+A green iguana is a reptile. It has scaly, waterproof skin.
+Iguanas are a type of lizard. Iguanas eat plants and fruit.",(B),0,B,C,Reasoning:Humpback whale is a reptile. Humpback whales are gray tree frogs. Gray tree frogs are reptiles. The final answer: (B).,Humpback whale is a reptile. Humpback whales are gray tree frogs. Gray tree frogs are reptiles.,B,0
+6012,,"What do these two changes have in common?
+cutting your fingernails
+stretching a rubber band","['Both are caused by cooling.', 'Both are caused by heating.', 'Both are chemical changes.', 'Both are only physical changes.']",3,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Cutting your fingernails is a physical change. Your fingernails are shorter after you cut them. But the pieces are still made of the same type of matter as the uncut fingernails.
+Stretching a rubber band is a physical change. The rubber band gets longer. But it is still made of the same type of matter as before.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(C),0,C,D,"Reasoning:Cutting your fingernails and stretching a rubber band are both physical changes. Cutting your fingernails and stretching a rubber band are both physical changes. Therefore, the final answer is (C).",,,0
+3317,,"What do these two changes have in common?
+mixing lettuce and salad dressing
+ice crystals forming on a window","['Both are only physical changes.', 'Both are caused by cooling.', 'Both are caused by heating.', 'Both are chemical changes.']",0,,closed choice,grade7,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Mixing lettuce and salad dressing is a physical change. Together, the salad and dressing make a mixture. But making this mixture does not form a different type of matter.
+Ice crystals forming on a window is a change of state. So, it is a physical change. Water vapor in the air can change directly into ice when it touches a very cold window! A change of state from a gas to a solid is called depositing.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Ice crystals form on a window when water vapor in the air becomes ice. This is caused by cooling. But mixing lettuce and salad dressing is not.",(D),0,D,A,Reasoning:Ice crystals forming on a window are both chemical changes. Mixing lettuce and salad dressing is the same as mixing ice crystals forming on a window. The final answer: (B).,Ice crystals forming on a window are both chemical changes. Mixing lettuce and salad dressing is the same as mixing ice crystals forming on a window.,B,0
+12209,,"Which type of sentence is this?
+Ian always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.","['compound', 'complex', 'simple', 'compound-complex']",0,,closed choice,grade7,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+Ian always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",Ian always approaches difficult tasks,0,,A,"Reasoning:Ian always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor. The final answer: (B).","Ian always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",B,0
+3523,,"What do these two changes have in common?
+bending a paper clip
+butter melting on a hot day","['Both are only physical changes.', 'Both are caused by heating.', 'Both are caused by cooling.', 'Both are chemical changes.']",0,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Bending a paper clip is a physical change. After you bend it, the paper clip has a different shape. But it is still made of the same type of matter.
+Butter melting on a hot day is a change of state. So, it is a physical change. The butter changes from solid to liquid, but it is still made of the same type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Butter melting on a hot day is caused by heating. But bending a paper clip is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,A,Reasoning:Butter melting on a hot day is caused by both heating and cooling. The final answer: (B).,Butter melting on a hot day is caused by both heating and cooling.,B,0
+2159,,"Which type of sentence is this?
+An avid reader, Garrett attends weekly book club meetings, and he finishes several novels every month.","['compound', 'compound-complex', 'complex', 'simple']",0,,closed choice,grade7,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+An avid reader, Garrett attends weekly book club meetings, and he finishes several novels every month.",Garrett attends weekly book,0,,A,Reasoning:Garrett is an avid reader and attends weekly book club meetings. He finishes several novels every month. The final answer: (B).,Garrett is an avid reader and attends weekly book club meetings. He finishes several novels every month.,B,0
+9278,,Select the amphibian.,"['snowy owl', 'helmeted iguana', 'brown pelican', 'arroyo toad']",3,,closed choice,grade5,natural science,biology,Incorrect–Incorrect,"Identify mammals, birds, fish, reptiles, and amphibians",Amphibians have moist skin and begin their lives in water.,"An arroyo toad is an amphibian. It has moist skin and begins its life in water.
+Toads do not have teeth! They swallow their food whole.
+A snowy owl is a bird. It has feathers, two wings, and a beak.
+Snowy owls live in cold places. Even their feet have feathers to keep warm!
+A brown pelican is a bird. It has feathers, two wings, and a beak.
+Brown pelicans live near water. They can dive underwater to catch fish.
+A helmeted iguana is a reptile. It has scaly, waterproof skin.
+Iguanas are a type of lizard. Iguanas eat plants and fruit.",C,0,C,D,Reasoning:Brown pelican is an amphibian. The final answer: (C).,Brown pelican is an amphibian.,C,0
+6002,,Select the vertebrate.,"['curlyhair tarantula', 'emerald tree boa', 'red-spotted purple butterfly', 'bess beetle']",1,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade4,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","An emerald tree boa is a reptile. Like other reptiles, an emerald tree boa is a vertebrate. It has a backbone.
+A bess beetle is an insect. Like other insects, a bess beetle is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A red-spotted purple butterfly is an insect. Like other insects, a red-spotted purple butterfly is an invertebrate. It does not have a backbone. It has an exoskeleton.
+Like other tarantulas, a curlyhair tarantula is an invertebrate. It does not have a backbone. It has an exoskeleton.",A,0,A,B,Reasoning:Vertebrates are a group of vertebrates. The final answer: (D).,Vertebrates are a group of vertebrates.,D,0
+744,,"Which type of sentence is this?
+Emmet always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.","['complex', 'compound-complex', 'simple', 'compound']",3,,closed choice,grade11,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+Emmet always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",Emmet always approaches difficult,0,,D,"Reasoning:Emmet always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor. The final answer: (C).","Emmet always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",C,0
+7636,,"What do these two changes have in common?
+melting wax
+your breath becoming visible on a cold day","['Both are caused by heating.', 'Both are caused by cooling.', 'Both are only physical changes.', 'Both are chemical changes.']",2,,closed choice,grade8,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Melting wax is a change of state. So, it is a physical change. The wax changes from solid to liquid. But it is still made of the same type of matter.
+Your breath becoming visible on a cold day is a change of state. So, it is a physical change. Water vapor in your breath touches the cold air outside and becomes liquid. The water vapor changes state, but it is made of water. A different type of matter is not formed.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Wax melting is caused by heating. But your breath becoming visible on a cold day is not.
+Both are caused by cooling.
+Your breath becoming visible on a cold day is caused by cooling. But melting wax is not.",(D),0,D,C,Reasoning:Melting wax your breath becomes visible on a cold day. The final answer: (D).,Melting wax your breath becomes visible on a cold day.,D,0
+11240,,"What do these two changes have in common?
+shaking up salad dressing
+water boiling on a stove","['Both are caused by cooling.', 'Both are only physical changes.', 'Both are caused by heating.', 'Both are chemical changes.']",1,,closed choice,grade8,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Shaking up salad dressing is a physical change. The different parts mix together, but they are still made of the same type of matter.
+Water boiling on the stove is a change of state. So, it is a physical change. The liquid changes into a gas, but a different type of matter is not formed.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Water boiling is caused by heating. But shaking up salad dressing is not.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,B,Reasoning:Shaking up salad dressing and boiling water on a stove are two chemical changes. Shaking up salad dressing and boiling water on a stove are two chemical changes. The final answer: (D).,Shaking up salad dressing and boiling water on a stove are two chemical changes. Shaking up salad dressing and boiling water on a stove are two chemical changes.,D,0
+1790,,Select the invertebrate.,"['human', 'puffin', 'golden orb-weaver', 'cardinalfish']",2,"Hint: Insects, spiders, and worms are invertebrates.",closed choice,grade5,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","Like other spiders, a golden orb-weaver is an invertebrate. It does not have a backbone. It has an exoskeleton.
+A human is a mammal. Like other mammals, a human is a vertebrate. It has a backbone.
+A puffin is a bird. Like other birds, a puffin is a vertebrate. It has a backbone.
+A cardinalfish is a fish. Like other fish, a cardinalfish is a vertebrate. It has a backbone.",D,0,D,C,Reasoning:Cardinalfishes are invertebrates. Cardinalfishes are a type of invertebrates. The final answer: (D).,Cardinalfishes are invertebrates. Cardinalfishes are a type of invertebrates.,D,0
+9446,,"What do these two changes have in common?
+mixing sand and gravel
+cracking open a peanut","['Both are chemical changes.', 'Both are caused by cooling.', 'Both are caused by heating.', 'Both are only physical changes.']",3,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Mixing sand and gravel is a physical change. Together, the sand and gravel make a mixture. But making this mixture does not form a different type of matter.
+Cracking open a peanut is a physical change. The peanut shell breaks and the peanut falls out. Both are still made of the same type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,D,"Reasoning:Mixing sand and gravel is a chemical change. Mixing sand and gravel is a chemical change. Cracking open a peanut is a chemical change. Therefore, the final answer is (A).",,,0
+12678,,Which organ is a muscular tube that moves food from the mouth to the stomach?,"['small intestine', 'large intestine', 'heart', 'esophagus']",3,,closed choice,grade4,natural science,biology,Incorrect–Incorrect,Human organs and their functions,,,small intestine,0,,D,Reasoning:Esophagus is a muscular tube that moves food from the mouth to the stomach. The final answer: (B).,Esophagus is a muscular tube that moves food from the mouth to the stomach.,B,0
+1574,,"Which type of sentence is this?
+An avid reader, Paul attends weekly book club meetings, and he finishes several novels every month.","['compound', 'compound-complex', 'complex', 'simple']",0,,closed choice,grade11,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+An avid reader, Paul attends weekly book club meetings, and he finishes several novels every month.",Paul is an avid reader,0,,A,"Reasoning:A book club is a group of people who meet weekly to read books. Paul attends weekly book club meetings, and he finishes several novels every month. The final answer: (B).","A book club is a group of people who meet weekly to read books. Paul attends weekly book club meetings, and he finishes several novels every month.",B,0
+10219,,"What do these two changes have in common?
+mixing sand and water
+cutting your fingernails","['Both are caused by cooling.', 'Both are chemical changes.', 'Both are only physical changes.', 'Both are caused by heating.']",2,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Mixing sand and water is a physical change. Adding water makes the sand wet. But both the sand and water are still made of the same type of matter as before.
+Cutting your fingernails is a physical change. Your fingernails are shorter after you cut them. But the pieces are still made of the same type of matter as the uncut fingernails.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(B),0,B,C,Reasoning:Mixing sand and water causes chemical changes. Chemical changes are chemical changes. Mixing sand and water causes chemical changes. The final answer: (B).,Mixing sand and water causes chemical changes. Chemical changes are chemical changes. Mixing sand and water causes chemical changes.,B,0
+10421,,"What do these two changes have in common?
+picking up a paper clip with a magnet
+water freezing into ice","['Both are caused by cooling.', 'Both are caused by heating.', 'Both are only physical changes.', 'Both are chemical changes.']",2,,closed choice,grade7,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Picking up a paper clip with a magnet is a physical change. The paper clip sticks to the magnet, but it is still made of the same type of matter.
+Water freezing into ice is a change of state. So, it is a physical change. The water changes from solid to liquid. But the ice is still made of the same type of matter as the liquid water.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Water freezing is caused by cooling. But picking up a paper clip with a magnet is not.",(D),0,D,C,Reasoning:Water freezes into ice when it is hot. The final answer: (D).,Water freezes into ice when it is hot.,D,0
+11591,,"What do these two changes have in common?
+breaking a plate
+molding clay into the shape of a pot","['Both are only physical changes.', 'Both are caused by cooling.', 'Both are caused by heating.', 'Both are chemical changes.']",0,,closed choice,grade3,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Breaking a plate is a physical change. The plate gets broken into pieces. But each piece is still made of the same type of matter.
+Molding clay into the shape of a pot is a physical change. The clay gets a different shape. But it is made of the same type of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Both changes are physical changes. No new matter is created.
+Both are chemical changes.
+Both changes are physical changes. They are not chemical changes.
+Both are caused by heating.
+Neither change is caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,A,Reasoning:Breaking a plate molds into the shape of a pot. The final answer: (D).,Breaking a plate molds into the shape of a pot.,D,0
+2838,,Select the mammal.,"['Nile crocodile', 'cobra', 'green frog', 'humpback whale']",3,,closed choice,grade5,natural science,biology,Incorrect–Incorrect,"Identify mammals, birds, fish, reptiles, and amphibians",Mammals have hair or fur and feed their young milk.,"A Nile crocodile is a reptile. It has scaly, waterproof skin.
+Crocodiles hunt their prey in or near water.
+A green frog is an amphibian. It has moist skin and begins its life in water.
+Frogs live near water or in damp places. Most frogs lay their eggs in water.
+A cobra is a reptile. It has scaly, waterproof skin.
+Most cobras have a wide, flat hood below their head. A cobra can display its hood to scare away a predator.
+A humpback whale is a mammal. It has hair and feeds its young milk.
+Whales are mammals that live in the ocean. Humpback whales have small hairs that grow from bumps around their mouth.",A,0,A,D,Reasoning:Nile crocodile is a mammal. Green frog is a mammal. The final answer: (B).,Nile crocodile is a mammal. Green frog is a mammal.,B,0
+5176,,Select the vertebrate.,"['bumble bee', 'orb weaver', 'earthworm', 'penguin']",3,"Hint: Mammals, birds, fish, reptiles, and amphibians are vertebrates.",closed choice,grade4,natural science,biology,Incorrect–Incorrect,Identify vertebrates and invertebrates,"Vertebrates and invertebrates are both groups of animals.
+A vertebrate has a backbone. The backbone is made of many bones in an animal's back. A vertebrate's backbone helps connect the different parts of its body. In the drawings below, each vertebrate's backbone is colored orange.
+An invertebrate does not have a backbone. In fact, invertebrates do not have any bones! Some invertebrates have an outer cover on their body called an exoskeleton. Other invertebrates have a soft body.","A penguin is a bird. Like other birds, a penguin is a vertebrate. It has a backbone.
+Like other spiders, an orb weaver is an invertebrate. It does not have a backbone. It has an exoskeleton.
+An earthworm is a worm. Like other worms, an earthworm is an invertebrate. It does not have a backbone. It has a soft body.
+A bumble bee is an insect. Like other insects, a bumble bee is an invertebrate. It does not have a backbone. It has an exoskeleton.",(B),0,B,D,Reasoning:Orb weaver is a vertebrate. Orb weaver is a penguin. The final answer: (B).,Orb weaver is a vertebrate. Orb weaver is a penguin.,B,0
+9396,,"Which type of sentence is this?
+Kenny always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.","['compound-complex', 'compound', 'complex', 'simple']",1,,closed choice,grade8,language science,grammar,Incorrect–Incorrect,"Is the sentence simple, compound, complex, or compound-complex?","A clause is a group of words that contains both a subject and a predicate.
+An independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.
+the oranges on our tree are ripe
+The clause can stand alone. It is independent.
+after we pick up Kevin from work
+The clause cannot stand alone. It is dependent.
+A simple sentence is made up of a single independent clause.
+Ben and I spent all day relaxing by the pool.
+Some simple sentences have introductory phrases, but the introductory phrase is part of the predicate.
+In the winter, Ben usually wears his heavy coat.
+Ben usually wears his heavy coat in the winter.
+A compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.
+We saw the flash of lightning, and seconds later we heard a rumble of thunder.
+A complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.
+If she ever gets the chance, Terri would love to visit the Egyptian pyramids.
+During his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.
+A compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.
+After Samantha left work, she stopped at the bank, and then she went to the gym.
+Sometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.
+Orcas that are kept in captivity often have bent dorsal fins.","The sentence is compound. It is made up of two independent clauses joined by the coordinating conjunction and.
+Kenny always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",Kenny always approaches,0,,B,"Reasoning:Kenny always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor. The final answer: (D).","Kenny always approaches difficult tasks enthusiastically, and he frequently motivates others with his energy and fervor.",D,0
+1238,,Select the solid.,"['knife', 'vinegar', 'water droplets', 'water from a faucet']",0,,closed choice,grade3,natural science,physics,Incorrect–Incorrect,"Identify solids, liquids, and gases","Solid, liquid, and gas are states of matter. Matter is anything that takes up space. Matter can come in different states, or forms.
+When matter is a solid, it has a definite volume and a definite shape. So, a solid has a size and shape of its own.
+Some solids can be easily folded, bent, or broken. A piece of paper is a solid. Also, some solids are very small. A grain of sand is a solid.
+When matter is a liquid, it has a definite volume but not a definite shape. So, a liquid has a size of its own, but it does not have a shape of its own. Think about pouring juice from a bottle into a cup. The juice still takes up the same amount of space, but it takes the shape of the bottle.
+Some liquids do not pour as easily as others. Honey and milk are both liquids. But pouring honey takes more time than pouring milk.
+When matter is a gas, it does not have a definite volume or a definite shape. A gas expands, or gets bigger, until it completely fills a space. A gas can also get smaller if it is squeezed into a smaller space.
+Many gases are invisible. Air is a gas.","Vinegar is a liquid. A liquid takes the shape of any container it is in. If you pour vinegar into a different container, the vinegar will take the shape of that container. But the vinegar will still take up the same amount of space.
+Water droplets are a liquid. A liquid takes the shape of any container it is in. If you collect water droplets in a bucket, they will take the shape of the bucket. But the water droplets will still take up the same amount of space.
+A knife is a solid. You can bend a knife. But it will still have a size and shape of its own.
+The water from a faucet is a liquid. A liquid takes the shape of any container it is in. If you put water from a faucet into a container, the water will take the shape of that container. But the water will still take up the same amount of space.",B,0,B,A,"Reasoning:Water is a solid. So, the final answer is (D).",,,0
+2754,,Which word is not like the others?,"['day', 'week', 'school', 'year']",2,,closed choice,grade1,language science,vocabulary,Incorrect–Incorrect,Which word is not like the others?,"Some words are alike. They go together in a group.
+Red, blue, and green go together. They are colors.
+Mom, dad, grandma, and grandpa go together. They are people in a family.","Day, year, and week go together. They are time words. School is not a time word, so it is not like the other words.",day,0,,C,Reasoning:Day is not like the others. The final answer: (D).,Day is not like the others.,D,0
+3888,,How long is a hammer?,"['20 millimeters', '20 centimeters', '20 kilometers', '20 meters']",1,Select the best estimate.,closed choice,grade7,natural science,units-and-measurement,Incorrect–Incorrect,"Choose metric units of distance, mass, and volume","Measurements are written with both a number and a unit. The unit comes after the number. The unit shows what the number means.
+When you are using metric units, length can be written with units of millimeters, centimeters, meters, or kilometers. One meter contains 100 centimeters or 1,000 millimeters. So, 1 meter is larger than 1 centimeter, and 1 centimeter is larger than 1 millimeter.
+The tip of the pencil shown here is only 1 millimeter wide, but the pencil is about 16 centimeters long.
+A red fox is about 1 meter long. The Sydney Harbour Bridge in Australia is about 1,000 meters, or 1 kilometer, in length.","The best estimate for the length of a hammer is 20 centimeters.
+20 millimeters is too short. 20 meters and 20 kilometers are too long.",20 millimeters,0,,B,Reasoning:A hammer is 20 millimeters long. The final answer: (A).,A hammer is 20 millimeters long.,A,0
+8257,,"What do these two changes have in common?
+dry ice sublimating and becoming a gas
+grilling a hamburger","['Both are chemical changes.', 'Both are caused by heating.', 'Both are only physical changes.', 'Both are caused by cooling.']",1,,closed choice,grade7,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.
+In a chemical change, the chemical bonds in the molecules break. The atoms then link together to form different molecules. The types of molecules in matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then link together in a different way to form different molecules. For example, carbon dioxide molecules are formed when paper burns.
+In a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, water vaporizing is a physical change that can be caused by heating. Liquid water and water vapor are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Dry ice is solid carbon dioxide. When dry ice gets warm, it changes state and becomes carbon dioxide gas. This change of state, from solid to gas, is called sublimation.
+Dry ice becoming a gas is a physical change. A change of state does not form a different type of matter.
+Grilling a hamburger is a chemical change. Heat from the grill causes the matter in the meat to change. Cooked meat and raw meat are different types of matter.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+Dry ice sublimating is a physical change. But grilling a hamburger is not.
+Both are chemical changes.
+Grilling a hamburger is a chemical change. But dry ice sublimating is not.
+Both are caused by heating.
+Both changes are caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(A),0,A,B,Reasoning:Dry ice sublimating and becoming a gas grilling a hamburger are both chemical changes. The final answer: (A).,Dry ice sublimating and becoming a gas grilling a hamburger are both chemical changes.,A,0
+3154,,"What do these two changes have in common?
+sauce burning on a stove
+a crayon melting in the sun","['Both are only physical changes.', 'Both are caused by cooling.', 'Both are caused by heating.', 'Both are chemical changes.']",2,,closed choice,grade4,natural science,chemistry,Incorrect–Incorrect,Compare physical and chemical changes,"Chemical changes and physical changes are two common ways matter can change.
+In a chemical change, the type of matter changes. The types of matter before and after a chemical change are always different.
+Some chemical changes are caused by heating or cooling. For example, burning a piece of paper is a chemical change caused by heating. When paper gets hot enough, it re­acts with oxygen in the air and burns. The paper and oxygen change into ash and smoke.
+In a physical change, the type of matter stays the same. The types of matter before and after a physical change are always the same.
+A change of state is a type of physical change. Changes of state can be caused by heating or cooling. For example, ice melting is a physical change that can be caused by heating. Ice and liquid water are made of the same type of matter: water.
+The law of conservation of mass says that all physical and chemical changes conserve mass. Conserve means to keep the same. So, the total mass before a physical or chemical change is equal to the total mass after the change.","Step 1: Think about each change.
+Sauce burning on a stove is a chemical change. High temperatures case the sauce to react with oxygen in the air. The sauce turns black and no longer tastes good.
+A crayon melting in the sun is a change of state. So, it is a physical change. The crayon changes state from solid to liquid. The crayon is still made of wax, even after it melts.
+Step 2: Look at each answer choice.
+Both are only physical changes.
+A crayon melting in the sun is a physical change. But sauce burning is not.
+Both are chemical changes.
+Sauce burning is a chemical change. But a crayon melting is not.
+Both are caused by heating.
+Both changes are caused by heating.
+Both are caused by cooling.
+Neither change is caused by cooling.",(D),0,D,C,Reasoning:A crayon melting in the sun is a chemical change. Sauce burning on a stove is a chemical change. Sauce burning on a stove is a chemical change. The final answer: (D).,A crayon melting in the sun is a chemical change. Sauce burning on a stove is a chemical change. Sauce burning on a stove is a chemical change.,D,0
